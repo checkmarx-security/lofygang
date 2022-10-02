@@ -583,7 +583,7 @@ export default {
                         } else {
                             IOCsMap["*.herokuapp.com/*"] = [item];
                         }
-                    } else if (IOC.includes("github")) {
+                    } else if (IOC.includes(".github")) {
                         IOCs.add("*.github.com/*");
                         if (IOCsMap["*.github.com/*"]) {
                             IOCsMap["*.github.com/*"].push(item);
