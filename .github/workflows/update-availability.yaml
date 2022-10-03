@@ -19,7 +19,7 @@ jobs:
 
       - name: Run availability check
         id: script
-        run: python scripts/update-availability.py
+        run: python scripts/check-availability.py
 
       - name: Get Timestamp
         if: ${{ steps.script.outputs.updated }}
