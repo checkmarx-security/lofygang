@@ -17,14 +17,9 @@ import * as d3 from 'd3';
 import * as PIXI from 'pixi.js';
 import {Viewport} from 'pixi-viewport';
 import {Cull} from '@pixi-essentials/cull';
-import activePackageIcon from '../static/activePackage.svg?raw'
-import packageIcon from '../static/package.svg?raw'
-import serverIcon from '../static/serverIcon.svg?raw'
-import userIcon from '../static/userIcon.svg?raw'
 import lofyIcon from '../static/lofylogo.svg?raw'
-import githubIcon from '../static/githubIcon.svg?raw'
 import activePackageIconPNG from '../static/activePackage.png'
-import packageIconPNG from '../static/package.png'
+import packageIconPNG from '../static/packageIcon.png'
 import serverIconPNG from '../static/serverIcon.png'
 import userIconPNG from '../static/userIcon.png'
 import githubIconPNG from '../static/githubIcon.png'
