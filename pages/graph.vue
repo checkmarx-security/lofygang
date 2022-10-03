@@ -25,7 +25,6 @@ import userIconPNG from '../static/userIcon.png'
 import githubIconPNG from '../static/githubIcon.png'
 import forceInABox from 'force-in-a-box';
 
-
 export default {
     name: "graph",
     components: {},
@@ -43,7 +42,7 @@ export default {
                 'IOCs': serverIconPNG,
                 'lofygang': lofyIcon,
                 'group': lofyIcon
-            }
+            },
         }
     },
     computed: {
@@ -94,7 +93,7 @@ export default {
                 links.push({source: {id: node_id}, target: {id: `${item.username}`}})
                 item.github_username.forEach((github_username) => {
                     nodesMap[github_username] = {
-                        id:  `${item.github_username}`,
+                        id: `${item.github_username}`,
                         name: github_username,
                         type: item.type,
                         group: item.group,
@@ -140,12 +139,6 @@ export default {
                     }
                     links.push({source: {id: node_id}, target: {id: `${group}`}})
                 }
-                let similar_packages = items.filter((value) => {
-                    return item.name === value.name && item.version !== value.version
-                })
-                similar_packages.forEach((similar_package) => {
-                    links.push({source: {id: node_id}, target: {id: `${similar_package.name}/${similar_package.version}`}})
-                })
             }
             return {nodes: nodesMap, links: links}
         },
@@ -193,11 +186,12 @@ export default {
                 antialias: !0,
                 transparent: !0,
                 resolution: 1,
-                autoResize: true
+                autoResize: true,
             });
+
+
             container.appendChild(app.view)
             container.firstElementChild.setAttribute("ref", "canvas")
-            container.firstElementChild.willReadFrequently = true;
 
             let viewport = new Viewport({
                 screenWidth: width,
@@ -212,7 +206,7 @@ export default {
 
             app.stage.addChild(viewport);
             viewport.drag().pinch().wheel().decelerate().clampZoom({minWidth: width / 4, minHeight: height / 4});
-            viewport.fit(true, this.graphWidth * 3.2, 900 * 3.2)
+            viewport.fit(true, this.graphWidth * 4, 900 * 4)
 
             let groupingForce = forceInABox()
                 .strength(0.1)
@@ -231,7 +225,7 @@ export default {
                 .force('charge', d3.forceManyBody().strength(-100))
                 .force("group", groupingForce)
                 .force('center', d3.forceCenter(width / 2, height / 2))
-                .force("collide", d3.forceCollide().strength(1).radius(60).iterations(30))
+                .force("collide", d3.forceCollide().strength(1).radius(40).iterations(6))
 
             this.simulation = simulation
 
@@ -254,21 +248,22 @@ export default {
             this.dragStart = function onDragStart(evt) {
                 this.currPoint = {x: evt.data.originalEvent.x, y: evt.data.originalEvent.y}
                 viewport.plugins.pause('drag');
-                simulation.alphaTarget(0.3).restart();
+                simulation.alphaTarget(0.01).restart();
                 this.isDown = true;
                 this.eventData = evt.data;
-                this.alpha = 1;
+                this.alpha = 0.2;
                 this.dragging = true;
             }
 
             this.dragEnd = function onDragEnd(evt) {
                 if (this.currPoint.x === evt.data.originalEvent.x && this.currPoint.y === evt.data.originalEvent.y) {
-                    if (vm.graphData.nodes[vm.currDraggedNode.gfx.id].icon !== "IOCs" && vm.graphData.nodes[vm.currDraggedNode.gfx.id].icon !== "username") {
+                    if (vm.graphData.nodes[vm.currDraggedNode.gfx.id].icon === "package") {
                         vm.$emit('itemSelected', vm.graphData.nodes[vm.currDraggedNode.gfx.id])
                     }
                 }
                 evt.stopPropagation();
                 if (!evt.active) simulation.alphaTarget(0.1);
+                simulation.alpha(1);
                 this.alpha = 1;
                 this.dragging = false;
                 this.isOver = false;
@@ -287,15 +282,12 @@ export default {
 
             this.linksGraphics = {}
             const ticked = () => {
+                app.filters = null
                 Object.values(this.pixiObjects).forEach((node) => {
                     let x = node.x
                     let y = node.y
                     node.gfx.position = new PIXI.Point(x, y);
                 });
-
-                for (let i = visualLinks.children.length - 1; i >= 0; i--) {
-                    visualLinks.children[i].destroy();
-                }
 
                 if (width !== this.graphWidth) {
                     this.viewport.moveCenter(this.graphWidth / 2, 444 / 2);
@@ -327,19 +319,16 @@ export default {
             this.viewport = viewport
             this.app = app
             this.simulation.on("tick", ticked);
-            this.simulation.tick();
         },
         restartForce() {
             let sim = this.useSimulation
             let nodes = this.graphData.nodes
-            let links = this.graphData.links
             sim.nodes(Object.values(nodes)).restart()
-            sim.force("link").links(links)
             sim.alpha(1).restart()
         },
         resetFilters() {
             this.$emit('resetFilters')
-        }
+        },
     },
     watch: {
         graphData() {
@@ -365,7 +354,7 @@ export default {
                 } else {
                     item.gfx = new PIXI.Sprite.from(this.texturesDict[node.icon]);
                 }
-                let nodeID = node.icon === "package" ? `${node.name}/${node.version}`: node.id
+                let nodeID = node.icon === "package" ? `${node.name}/${node.version}` : node.id
                 item.gfx.id = nodeID;
                 let currName = node.name
                 item.name = currName
@@ -375,9 +364,9 @@ export default {
                     if (node.icon === 'package') {
                         icon_ratio = node.available ? 157 / 178 : 229 / 254
                         item.gfx.width = node.available ? 60 : 80;
-                        item.gfx.height = (node.available ? 60 : 80)  / icon_ratio;
+                        item.gfx.height = (node.available ? 60 : 80) / icon_ratio;
                     } else if (node.icon === "IOCs") {
-                        icon_ratio =  148 / 189
+                        icon_ratio = 148 / 189
                         item.gfx.width = 60;
                         item.gfx.height = 60 * icon_ratio;
                     } else if (node.icon === "github_username") {
@@ -425,13 +414,12 @@ export default {
 
                 item.gfx.interactive = true;
                 item.gfx.buttonMode = true;
-                item.gfx.hitArea = new PIXI.Rectangle(-60, -60, 60, 60);
+                item.gfx.hitArea = new PIXI.Rectangle(-40, -40, 100, 100);
 
                 this.pixiObjects[nodeID] = item
             });
-            viewport.fit(true, this.graphWidth * 3.2, 900 * 3.2)
+            viewport.fit(true, this.graphWidth * 4, 900 * 4)
             this.viewport = viewport
-            let links = this.graphData.links
             this.useSimulation.alpha(1).restart();
             this.restartForce()
             this.noData = Object.keys(this.graphData.nodes).length === 0
@@ -444,7 +432,7 @@ export default {
                 this.app.renderer.resize(this.graphWidth, 444)
                 this.viewport.moveCenter(this.graphWidth / 2, 444 / 2)
             }
-            viewport.fit(true, this.graphWidth * 3.2, 900 * 3.2)
+            this.viewport.fit(true, this.graphWidth * 4, 900 * 4)
             this.useSimulation.alpha(1).restart();
         }
     }
