@@ -379,7 +379,7 @@ export default {
                     } else if (node.icon === "username") {
                         icon_ratio = 132 / 142
                         item.gfx.width = 60;
-                        item.gfx.height = 60 * icon_ratio;
+                        item.gfx.height = 60 / icon_ratio;
                     }
 
                     item.gfx.on('mouseover', (mouseData) => {
