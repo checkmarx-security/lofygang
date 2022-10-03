@@ -417,7 +417,7 @@ export default {
 
                 item.gfx.interactive = true;
                 item.gfx.buttonMode = true;
-                item.gfx.hitArea = new PIXI.Rectangle(-40, -40, 60, 60);
+                // item.gfx.hitArea = new PIXI.Rectangle(-40, -40, 60, 60);
                 this.pixiObjects[nodeID] = item
             });
             viewport.fit(true, this.graphWidth * 3, 900 * 3)
