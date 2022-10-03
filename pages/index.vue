@@ -344,11 +344,11 @@
                                        v-model="selectAllIOCs">
                                 <label class="checkbox__label" for="allIOCs">All</label>
                             </div>
-                            <div class="graph-filters__options__option" v-for="ioc in IOCsFilter" :key="ioc">
-                                <input class="checkbox__input" type="checkbox" :id="ioc"
-                                       :value="ioc"
+                            <div class="graph-filters__options__option" v-for="ioc in IOCsFilter" :key=ioc>
+                                <input class="checkbox__input" type="checkbox" :id="'ioc' + ioc"
+                                       :value=ioc
                                        v-model="filters.IOCs">
-                                <label class="checkbox__label" :title="ioc" :for=ioc>{{ ioc }}</label>
+                                <label class="checkbox__label" :title=ioc :for="'ioc' + ioc">{{ ioc }}</label>
                             </div>
                         </div>
                         <div class="graph-filters__title graph-filters__padding">Keywords</div>
@@ -356,13 +356,14 @@
                             <div class="graph-filters__options__option">
                                 <input class="checkbox__input" type="checkbox" id="allKeywords"
                                        v-model="selectAllKeywords">
-                                <label class="checkbox__label" for="allIOCs">All</label>
+                                <label class="checkbox__label" for="allKeywords">All</label>
                             </div>
                             <div class="graph-filters__options__option" v-for="keyword in keywordsFilter" :key="keyword">
-                                <input class="checkbox__input" type="checkbox" :id="keyword"
+
+                                <input class="checkbox__input" type="checkbox" :id="'keyword'+keyword"
                                        :value="keyword"
                                        v-model="filters.keywords">
-                                <label class="checkbox__label" :title="keyword" :for=keyword>{{ keyword }}</label>
+                                <label class="checkbox__label" :title="keyword" :for="'keyword'+keyword">{{ keyword }}</label>
                             </div>
                         </div>
                     </div>
@@ -1320,6 +1321,8 @@ html, body {
         text-overflow: ellipsis;
         -webkit-mask-image: linear-gradient(180deg, #000 80%, transparent);
 
+
+
         &__option {
             width: 200px;
             font-size: 12px;
@@ -1333,7 +1336,6 @@ html, body {
 
         &:hover {
             overflow-y: scroll;
-            -webkit-mask-image: None
         }
 
         $class-name: &;
