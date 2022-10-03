@@ -75,7 +75,7 @@
                             </svg>
                         </div>
                         <div class="selected-package-modal__body__bullet__text">
-                            Published using automation tools (<a target="_blank" href="https://medium.com/checkmarx-security/a-beautiful-factory-for-malicious-packages-8937bb57e524">read more</a>)
+                            Published using automation tools (<a target="_blank" :href=articleLink >read more</a>)
                         </div>
                     </div>
 
@@ -89,7 +89,7 @@
                         </div>
                         <div class="selected-package-modal__body__bullet__text" :title="selectedItem.server">
                             Data exfiltrated to <b>{{ formatServer(selectedItem.server) }}</b><span v-if="!selectedItem.customServer">(free service, <a target="_blank" href="https://medium.com/checkmarx-security/webhook-party-malicious-packages-caught-exfiltrating-data-via-legit-webhook-services-6e046b07d191">read more</a>)</span>
-                            <span v-else>(custom server <a target="_blank" href="https://medium.com/checkmarx-security/a-beautiful-factory-for-malicious-packages-8937bb57e524">read more</a>)</span>
+                            <span v-else>(custom server <a target="_blank" :href=articleLink >read more</a>)</span>
                         </div>
                     </div>
 
@@ -160,7 +160,7 @@
 
                     <a target="_blank" href="https://github.com/checkmarx-security/lofygang/tree/master/samples" class="selected-package-modal__footer__button" v-if="selectedItem.sample">
                         view sample evidence
-                    </a>
+                    </a>`
                     <div class="selected-package-modal__footer__button selected-package-modal__footer__button--primary" @click="selectedItem = null">
                         Close
                     </div>
@@ -210,7 +210,7 @@
 
                 <div class="header__info">
                     <b>LofiGang</b> is a software supply chain threat actor which has published <b>{{ items.length }}</b> malicious packages.
-                    <a target="_blank" href="https://checkmarx.com/blog/LofiGang-detected-preparing-a-large-scale-crypto-mining-campaign-on-npm-users/">As Checkmarx uncovered</a>, this attacker has demonstrated new techniques that power him with automated NPM account creation.
+                    <a target="_blank" href="https://bit.ly/lofygang">As Checkmarx uncovered</a>, this attacker has demonstrated new techniques that power him with automated NPM account creation.
                     <br>
                     <br>
                     This open-source project tracks <b>LofiGang</b>'s activity over time as there are evidence the actor
@@ -426,7 +426,7 @@
                         <br>
                         Like this project? ⭐ it on <a target="_blank" href="https://github.com/checkmarx-security/lofygang">GitHub</a>
                         <br>
-                        Read the full uncover blogpost on <a target="_blank" href="https://medium.com/checkmarx-security/a-beautiful-factory-for-malicious-packages-8937bb57e524">Medium</a>
+                        Read the full uncover blogpost on <a target="_blank" :href=articleLink >Medium</a>
 
                     </div>
                     <div class="footer__section">
@@ -487,6 +487,7 @@ export default {
             container: this.$refs.cont,
             IOCsFilter: [],
             keywordsFilter: [],
+            articleLink: "https://bit.ly/lofygang"
         }
     },
     methods: {
@@ -1278,7 +1279,7 @@ html, body {
 
         &:hover {
             overflow-y: scroll;
-            -webkit-mask-image: linear-gradient(180deg, #000 80%, transparent);
+            -webkit-mask-image: none;
         }
     }
 }
