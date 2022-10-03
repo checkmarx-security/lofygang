@@ -19,7 +19,7 @@ import {Viewport} from 'pixi-viewport';
 import {Cull} from '@pixi-essentials/cull';
 import lofyIcon from '../static/lofylogo.svg?raw'
 import activePackageIconPNG from '../static/activePackage.png'
-import packageIconPNG from '../static/package.png'
+import packageIconPNG from '../static/packageIcon.png'
 import serverIconPNG from '../static/serverIcon.png'
 import userIconPNG from '../static/userIcon.png'
 import githubIconPNG from '../static/githubIcon.png'
