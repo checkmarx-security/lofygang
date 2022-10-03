@@ -38,7 +38,7 @@ export default {
             windowWidth: 900,
             texturesDict: {
                 'package': activePackageIconPNG,
-                'email': githubIconPNG,
+                'github_username': githubIconPNG,
                 'username': userIconPNG,
                 'IOCs': serverIconPNG,
                 'lofygang': lofyIcon,
@@ -51,15 +51,17 @@ export default {
             let IOCsFilter = this.filters.IOCs;
             let IOCsMap = this.filters.IOCsMap;
             let keywordsFilter = this.filters.keywords;
+            let keywordsMap = this.filters.keywordsMap;
             let items = this.items;
+
             if (Object.values(IOCsMap).length || keywordsFilter.length) {
                 items = items.filter((item) => {
                     let keywords = item.group
                     let IOCs = item.servers
-                    if (!keywords.some((word) => keywordsFilter.includes(word))) {
+                    if (!keywordsFilter.some((keyword) => keywordsMap[keyword].includes(item.name))) {
                         return false
                     }
-                    if (!IOCsFilter.some((ioc) => IOCsMap[ioc].includes(item))) {
+                    if (!IOCsFilter.some((ioc) => IOCsMap[ioc].includes(item.name))) {
                         return false
                     }
                     return true
@@ -71,68 +73,79 @@ export default {
             let items = Object.values(this.filteredItems);
             let links = []
             let nodesMap = {}
+
             for (let item of items) {
                 let node_id = `${item.name}/${item.version}`
                 nodesMap[node_id] = item
                 nodesMap[node_id].icon = "package"
                 nodesMap[item.username] = {
-                    id: `${item.username}/${item.version}`,
+                    id: `${item.username}`,
                     name: item.username,
                     type: item.type,
                     group: item.group,
                     version: item.version,
+                    github_username: item.github_username,
                     email: item.email,
                     username: item.username,
                     date: item.date,
                     IOCs: item.servers,
                     icon: "username"
                 }
-                links.push({source: {id: node_id}, target: {id: `${item.username}/${item.version}`}})
-                item.email.forEach((mail) => {
-                    nodesMap[mail] = {
-                        name: mail,
+                links.push({source: {id: node_id}, target: {id: `${item.username}`}})
+                item.github_username.forEach((github_username) => {
+                    nodesMap[github_username] = {
+                        id:  `${item.github_username}`,
+                        name: github_username,
                         type: item.type,
                         group: item.group,
                         version: item.version,
-                        email: mail,
+                        github_username: github_username,
+                        email: item.email,
                         username: item.username,
                         date: item.date,
                         IOCs: item.servers,
-                        icon: "email"
+                        icon: "github_username"
                     }
-                    links.push({source: {id: node_id}, target: {id: `${item.mail}/${item.version}`}})
+                    links.push({source: {id: node_id}, target: {id: `${item.github_username}`}})
                 })
                 item.servers.forEach((ioc) => {
                     nodesMap[ioc] = {
+                        id: `${ioc}`,
                         name: ioc,
                         type: item.type,
                         group: item.group,
                         version: item.version,
                         email: item.email,
+                        github_username: item.github_username,
                         username: item.username,
                         date: item.date,
                         IOCs: ioc,
                         icon: "IOCs"
                     }
-                    links.push({source: {id: node_id}, target: {id: `${ioc}/${item.version}`}})
+                    links.push({source: {id: node_id}, target: {id: `${ioc}`}})
                 })
                 for (let group of item.group) {
-                    if (group === "none") {
-                        continue
-                    }
                     nodesMap[group] = {
+                        id: `${group}`,
                         name: group,
                         type: item.type,
                         group: group,
                         version: item.version,
                         email: item.email,
+                        github_username: item.github_username,
                         username: item.username,
                         date: item.date,
                         IOCs: item.servers,
                         icon: "group"
                     }
-                    links.push({source: {id: node_id}, target: {id: `${group}/${item.version}`}})
+                    links.push({source: {id: node_id}, target: {id: `${group}`}})
                 }
+                let similar_packages = items.filter((value) => {
+                    return item.name === value.name && item.version !== value.version
+                })
+                similar_packages.forEach((similar_package) => {
+                    links.push({source: {id: node_id}, target: {id: `${similar_package.name}/${similar_package.version}`}})
+                })
             }
             return {nodes: nodesMap, links: links}
         },
@@ -184,6 +197,7 @@ export default {
             });
             container.appendChild(app.view)
             container.firstElementChild.setAttribute("ref", "canvas")
+            container.firstElementChild.willReadFrequently = true;
 
             let viewport = new Viewport({
                 screenWidth: width,
@@ -198,7 +212,7 @@ export default {
 
             app.stage.addChild(viewport);
             viewport.drag().pinch().wheel().decelerate().clampZoom({minWidth: width / 4, minHeight: height / 4});
-            viewport.fit(true, this.graphWidth * 3, 900 * 3)
+            viewport.fit(true, this.graphWidth * 3.2, 900 * 3.2)
 
             let groupingForce = forceInABox()
                 .strength(0.1)
@@ -249,8 +263,8 @@ export default {
 
             this.dragEnd = function onDragEnd(evt) {
                 if (this.currPoint.x === evt.data.originalEvent.x && this.currPoint.y === evt.data.originalEvent.y) {
-                    if (vm.graphData.nodes[vm.currDraggedNode.name].icon !== "server" && vm.graphData.nodes[vm.currDraggedNode.name].icon !== "user") {
-                        vm.$emit('itemSelected', vm.graphData.nodes[vm.currDraggedNode.name])
+                    if (vm.graphData.nodes[vm.currDraggedNode.gfx.id].icon !== "IOCs" && vm.graphData.nodes[vm.currDraggedNode.gfx.id].icon !== "username") {
+                        vm.$emit('itemSelected', vm.graphData.nodes[vm.currDraggedNode.gfx.id])
                     }
                 }
                 evt.stopPropagation();
@@ -315,11 +329,6 @@ export default {
             this.simulation.on("tick", ticked);
             this.simulation.tick();
         },
-        calculateAspectRatioFit(srcWidth, srcHeight, maxWidth, maxHeight) {
-            console.log(srcWidth, srcHeight, maxWidth, maxHeight)
-            var ratio = Math.min(maxWidth / srcWidth, maxHeight / srcHeight);
-            return {width: srcWidth * ratio, height: srcHeight * ratio};
-        },
         restartForce() {
             let sim = this.useSimulation
             let nodes = this.graphData.nodes
@@ -334,8 +343,6 @@ export default {
     },
     watch: {
         graphData() {
-            console.log(this.filters.IOCs)
-            console.log(this.filters.keywords)
             if (!this.filters.IOCs || !this.filters.keywords) {
                 this.noData = true
                 return
@@ -345,6 +352,7 @@ export default {
             let viewport = this.useViewport
             viewport.children.length = 1;
             let nodes = this.graphData.nodes
+
             Object.values(nodes).forEach((node) => {
                 const boundDrag = this.dragMove.bind(node);
                 let item = node;
@@ -357,7 +365,7 @@ export default {
                 } else {
                     item.gfx = new PIXI.Sprite.from(this.texturesDict[node.icon]);
                 }
-                let nodeID = `${node.name}/${node.version}`
+                let nodeID = node.icon === "package" ? `${node.name}/${node.version}`: node.id
                 item.gfx.id = nodeID;
                 let currName = node.name
                 item.name = currName
@@ -372,7 +380,7 @@ export default {
                         icon_ratio =  148 / 189
                         item.gfx.width = 60;
                         item.gfx.height = 60 * icon_ratio;
-                    } else if (node.icon === "email") {
+                    } else if (node.icon === "github_username") {
                         icon_ratio = 1
                         item.gfx.width = 60;
                         item.gfx.height = 60 * icon_ratio;
@@ -418,9 +426,10 @@ export default {
                 item.gfx.interactive = true;
                 item.gfx.buttonMode = true;
                 item.gfx.hitArea = new PIXI.Rectangle(-60, -60, 60, 60);
+
                 this.pixiObjects[nodeID] = item
             });
-            viewport.fit(true, this.graphWidth * 3, 900 * 3)
+            viewport.fit(true, this.graphWidth * 3.2, 900 * 3.2)
             this.viewport = viewport
             let links = this.graphData.links
             this.useSimulation.alpha(1).restart();
@@ -435,7 +444,7 @@ export default {
                 this.app.renderer.resize(this.graphWidth, 444)
                 this.viewport.moveCenter(this.graphWidth / 2, 444 / 2)
             }
-            this.viewport.fit(true, this.graphWidth * 3, 900 * 3)
+            viewport.fit(true, this.graphWidth * 3.2, 900 * 3.2)
             this.useSimulation.alpha(1).restart();
         }
     }

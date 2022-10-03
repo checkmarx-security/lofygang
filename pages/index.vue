@@ -75,7 +75,7 @@
                             </svg>
                         </div>
                         <div class="selected-package-modal__body__bullet__text">
-                            Published using automation tools (<a target="_blank" :href=articleLink >read more</a>)
+                            Published using automation tools (<a target="_blank" :href=articleLink>read more</a>)
                         </div>
                     </div>
 
@@ -89,7 +89,7 @@
                         </div>
                         <div class="selected-package-modal__body__bullet__text" :title="selectedItem.server">
                             Data exfiltrated to <b>{{ formatServer(selectedItem.server) }}</b><span v-if="!selectedItem.customServer">(free service, <a target="_blank" href="https://medium.com/checkmarx-security/webhook-party-malicious-packages-caught-exfiltrating-data-via-legit-webhook-services-6e046b07d191">read more</a>)</span>
-                            <span v-else>(custom server <a target="_blank" :href=articleLink >read more</a>)</span>
+                            <span v-else>(custom server <a target="_blank" :href=articleLink>read more</a>)</span>
                         </div>
                     </div>
 
@@ -338,7 +338,7 @@
                 <div class="graph">
                     <div class="graph-filters">
                         <div class="graph-filters__title graph-filters__padding">C2</div>
-                        <div class="graph-filters__options">
+                        <div ref="c2Filter" class="graph-filters__options" :class="{'graph-filters__options--scrolled': c2ScrollPosition}">
                             <div class="graph-filters__options__option">
                                 <input class="checkbox__input" type="checkbox" id="allIOCs"
                                        v-model="selectAllIOCs">
@@ -352,7 +352,7 @@
                             </div>
                         </div>
                         <div class="graph-filters__title graph-filters__padding">Keywords</div>
-                        <div class="graph-filters__options">
+                        <div ref="keywordsFilter" class="graph-filters__options" :class="{'graph-filters__options--scrolled': keywordsScrollPosition}">
                             <div class="graph-filters__options__option">
                                 <input class="checkbox__input" type="checkbox" id="allKeywords"
                                        v-model="selectAllKeywords">
@@ -426,7 +426,7 @@
                         <br>
                         Like this project? ⭐ it on <a target="_blank" href="https://github.com/checkmarx-security/lofygang">GitHub</a>
                         <br>
-                        Read the full uncover blogpost on <a target="_blank" :href=articleLink >Medium</a>
+                        Read the full uncover blogpost on <a target="_blank" :href=articleLink>Medium</a>
 
                     </div>
                     <div class="footer__section">
@@ -483,11 +483,13 @@ export default {
             items: items,
             search: "",
             itemsLimit: PAGE_SIZE,
-            filters: {IOCs: [], IOCsMap: {}, keywords: []},
+            filters: {IOCs: [], IOCsMap: {}, keywords: [], keywordsMap: {}},
             container: this.$refs.cont,
             IOCsFilter: [],
             keywordsFilter: [],
-            articleLink: "https://bit.ly/lofygang"
+            articleLink: "https://bit.ly/lofygang",
+            c2ScrollPosition: false,
+            keywordsScrollPosition: false
         }
     },
     methods: {
@@ -512,115 +514,156 @@ export default {
             let IOCs = new Set()
             let keywords = new Set()
             let IOCsMap = {}
+            let keywordsMap = {}
             items.forEach((item) => {
-                item.servers.forEach(IOC => {
-                    if (IOC.includes("pastebin")) {
-                        IOCs.add("*.pastebin.com/*");
-                        if (IOCsMap["*.pastebin.com/*"]) {
-                            IOCsMap["*.pastebin.com/*"].push(item);
-                        } else {
-                            IOCsMap["*.pastebin.com/*"] = [item];
+                if (item.servers.length) {
+                    item.servers.forEach(IOC => {
+                        if (IOC.includes("pastebin")) {
+                            IOCs.add("*.pastebin.com/*");
+                            if (IOCsMap["*.pastebin.com/*"]) {
+                                IOCsMap["*.pastebin.com/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.pastebin.com/*"] = [item.name];
+                            }
+                        } else if (IOC.includes("klgrth")) {
+                            IOCs.add("*.klgrth.io/*");
+                            if (IOCsMap["*.klgrth.io/*"]) {
+                                IOCsMap["*.klgrth.io/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.klgrth.io/*"] = [item.name];
+                            }
+                        } else if (IOC.includes("kauedaocu")) {
+                            IOCs.add("*.kauedaocu.space/*");
+                            if (IOCsMap["*.kauedaocu.space/*"]) {
+                                IOCsMap["*.kauedaocu.space/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.kauedaocu.space/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("klgrth")) {
-                        IOCs.add("*.klgrth.io/*");
-                        if (IOCsMap["*.klgrth.io/*"]) {
-                            IOCsMap["*.klgrth.io/*"].push(item);
-                        } else {
-                            IOCsMap["*.klgrth.io/*"] = [item];
+                        if (IOC.includes("nikezada")) {
+                            IOCs.add("*.nikezada.tk/*");
+                            if (IOCsMap["*.nikezada.tk/*"]) {
+                                IOCsMap["*.nikezada.tk/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.nikezada.tk/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("kauedaocu")) {
-                        IOCs.add("*.kauedaocu.space/*");
-                        if (IOCsMap["*.kauedaocu.space/*"]) {
-                            IOCsMap["*.kauedaocu.space/*"].push(item);
-                        } else {
-                            IOCsMap["*.kauedaocu.space/*"] = [item];
+                        if (IOC.includes("ibb.co")) {
+                            IOCs.add("*.ibb.co/*");
+                            if (IOCsMap["*.ibb.co/*"]) {
+                                IOCsMap["*.ibb.co/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.ibb.co/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("nikezada")) {
-                        IOCs.add("*.nikezada.tk/*");
-                        if (IOCsMap["*.nikezada.tk/*"]) {
-                            IOCsMap["*.nikezada.tk/*"].push(item);
-                        } else {
-                            IOCsMap["*.nikezada.tk/*"] = [item];
+                        if (IOC.includes("glitch.me")) {
+                            IOCs.add("*.glitch.me/*");
+                            if (IOCsMap["*.glitch.me/*"]) {
+                                IOCsMap["*.glitch.me/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.glitch.me/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("ibb.co")) {
-                        IOCs.add("*.ibb.co/*");
-                        if (IOCsMap["*.ibb.co/*"]) {
-                            IOCsMap["*.ibb.co/*"].push(item);
-                        } else {
-                            IOCsMap["*.ibb.co/*"] = [item];
+                        if (IOC.includes("pegapiranha")) {
+                            IOCs.add("*.pegapiranha.com/*");
+                            if (IOCsMap["*.pegapiranha.com/*"]) {
+                                IOCsMap["*.pegapiranha.com/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.pegapiranha.com/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("frequent-level-cornflower")) {
-                        IOCs.add("*.frequent-level-cornflower.glitch/*");
-                        if (IOCsMap["*.frequent-level-cornflower.glitch/*"]) {
-                            IOCsMap["*.frequent-level-cornflower.glitch/*"].push(item);
-                        } else {
-                            IOCsMap["*.frequent-level-cornflower.glitch/*"] = [item];
+                        if (IOC.includes("kauelindo")) {
+                            IOCs.add("*.kauelindo.xyz/*");
+                            if (IOCsMap["*.kauelindo.xyz/*"]) {
+                                IOCsMap["*.kauelindo.xyz/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.kauelindo.xyz/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("low-abaft-wax")) {
-                        IOCs.add("*low-abaft-wax.glitch/*");
-                        if (IOCsMap["*low-abaft-wax.glitch/*"]) {
-                            IOCsMap["*low-abaft-wax.glitch/*"].push(item);
-                        } else {
-                            IOCsMap["*low-abaft-wax.glitch/*"] = [item];
+                        if (IOC.includes("herokuapp")) {
+                            IOCs.add("*.herokuapp.com/*");
+                            if (IOCsMap["*.herokuapp.com/*"]) {
+                                IOCsMap["*.herokuapp.com/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.herokuapp.com/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("pegapiranha")) {
-                        IOCs.add("*.pegapiranha.com/*");
-                        if (IOCsMap["*.pegapiranha.com/*"]) {
-                            IOCsMap["*.pegapiranha.com/*"].push(item);
-                        } else {
-                            IOCsMap["*.pegapiranha.com/*"] = [item];
+                        if (IOC.includes(".github")) {
+                            IOCs.add("*.github.com/*");
+                            if (IOCsMap["*.github.com/*"]) {
+                                IOCsMap["*.github.com/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.github.com/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("kauelindo")) {
-                        IOCs.add("*.kauelindo.xyz/*");
-                        if (IOCsMap["*.kauelindo.xyz/*"]) {
-                            IOCsMap["*.kauelindo.xyz/*"].push(item);
-                        } else {
-                            IOCsMap["*.kauelindo.xyz/*"] = [item];
+                        if (IOC.includes("repl")) {
+                            IOCs.add("*.repl.co/*");
+                            if (IOCsMap["*.repl.co/*"]) {
+                                IOCsMap["*.repl.co/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.repl.co/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("*herokuapp.com/*")) {
-                        IOCs.add("*.herokuapp.com/*");
-                        if (IOCsMap["*.herokuapp.com/*"]) {
-                            IOCsMap["*.herokuapp.com/*"].push(item);
-                        } else {
-                            IOCsMap["*.herokuapp.com/*"] = [item];
+                        if (IOC.includes("vilao.xyz")) {
+                            IOCs.add("*.vilao.xyz/*");
+                            if (IOCsMap["*.vilao.xyz/*"]) {
+                                IOCsMap["*.vilao.xyz/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.vilao.xyz/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes(".github")) {
-                        IOCs.add("*.github.com/*");
-                        if (IOCsMap["*.github.com/*"]) {
-                            IOCsMap["*.github.com/*"].push(item);
-                        } else {
-                            IOCsMap["*.github.com/*"] = [item];
+                        if (IOC.includes("discord.com")) {
+                            IOCs.add("*.discord.com/*");
+                            if (IOCsMap["*.discord.com/*"]) {
+                                IOCsMap["*.discord.com/*"].push(item.name);
+                            } else {
+                                IOCsMap["*.discord.com/*"] = [item.name];
+                            }
                         }
-                    } else if (IOC.includes("repl")) {
-                        IOCs.add("*.repl.co/*");
-                        if (IOCsMap["*.repl.co/*"]) {
-                            IOCsMap["*.repl.co/*"].push(item);
-                        } else {
-                            IOCsMap["*.repl.co/*"] = [item];
-                        }
-                    } else if (IOC.includes("vilao.xyz")) {
-                        IOCs.add("*.vilao.xyz/*");
-                        if (IOCsMap["*.vilao.xyz/*"]) {
-                            IOCsMap["*.vilao.xyz/*"].push(item);
-                        } else {
-                            IOCsMap["*.vilao.xyz/*"] = [item];
-                        }
+                    })
+                } else {
+                    if (!IOCsMap["Others"]) {
+                        IOCsMap["Others"] = [item.name];
+                    } else {
+                        IOCsMap["Others"].push(item.name);
                     }
-                })
-                item.group.forEach(group => {
-                    if (group !== "None" || !group) {
+                    IOCs.add("Others");
+                }
+                if (item.group.length) {
+                    item.group.forEach(group => {
                         group = group.trim()
+                        if (!keywordsMap[group]) {
+                            keywordsMap[group] = [item.name];
+                        } else {
+                            keywordsMap[group].push(item.name);
+                        }
                         keywords.add(group);
+                    })
+                } else {
+                    if (!keywordsMap["Others"]) {
+                        keywordsMap["Others"] = [item.name];
+                    } else {
+                        keywordsMap["Others"].push(item.name);
                     }
-                })
+                    keywords.add("Others");
+                }
             })
             this.search = ""
             this.IOCsFilter = Array.from(IOCs)
+            this.IOCsFilter = this.IOCsFilter.sort()
             this.filters.IOCs = this.IOCsFilter
             this.keywordsFilter = Array.from(keywords)
+            this.keywordsFilter = this.keywordsFilter.sort()
             this.filters.keywords = this.keywordsFilter
+            this.filters.keywordsMap = keywordsMap
             this.filters.IOCsMap = IOCsMap
-        }
+        },
+        onC2FilterScroll() {
+            this.c2ScrollPosition = this.$refs.c2Filter.scrollTop;
+        },
+        onKeywordsFilterScroll() {
+            this.keywordsScrollPosition = this.$refs.keywordsFilter.scrollTop;
+        },
     },
     computed: {
         selectAllIOCs: {
@@ -661,8 +704,8 @@ export default {
 
             if (search) {
                 items = Object.values(items).filter(x => {
-                    if (!x.name) {
-                        return false;
+                    if (x.name) {
+                        return true;
                     }
                     if (x.name.includes(search)) {
                         return true;
@@ -694,7 +737,17 @@ export default {
     },
     mounted() {
         this.initFilters()
-    }
+        if (this.$refs.c2Filter) {
+            this.$refs.c2Filter.addEventListener("scroll", this.onC2FilterScroll);
+        }
+        if (this.$refs.keywordsFilter) {
+            this.$refs.keywordsFilter.addEventListener("scroll", this.onKeywordsFilterScroll);
+        }
+    },
+    beforeDestroy() {
+        this.$refs.c2Filter.removeEventListener("scroll", this.onC2FilterScroll);
+        this.$refs.keywordsFiller.removeEventListener("scroll", this.onKeywordsFilterScroll);
+    },
 }
 </script>
 
@@ -1275,11 +1328,21 @@ html, body {
             overflow-x: hidden;
             overflow-y: scroll;
             text-overflow: ellipsis;
+
         }
 
         &:hover {
             overflow-y: scroll;
-            -webkit-mask-image: none;
+            -webkit-mask-image: None
+        }
+
+        $class-name: &;
+
+        &#{$class-name}--scrolled {
+            box-shadow: inset 0 12px 10px 0 rgba(0, 0, 0, 0.1);
+            z-index: 10;
+            -webkit-mask-image: linear-gradient(0, #000 80%, transparent);
+
         }
     }
 }

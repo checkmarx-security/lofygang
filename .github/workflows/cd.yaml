@@ -21,6 +21,10 @@ jobs:
       - name: Generate
         run: npm run build
 
+      - name: echo cname
+        run:  echo 'lofygang.info' > CNAME
+
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
