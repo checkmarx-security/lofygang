@@ -209,11 +209,11 @@
                 </div>
 
                 <div class="header__info">
-                    <b>LofiGang</b> is a software supply chain threat actor which has published <b>{{ items.length }}</b> malicious packages.
+                    <b>LofyGang</b> is a software supply chain threat actor which has published <b>{{ items.length }}</b> malicious packages.
                     <a target="_blank" href="https://bit.ly/lofygang">As Checkmarx uncovered</a>, this attacker has demonstrated new techniques that power him with automated NPM account creation.
                     <br>
                     <br>
-                    This open-source project tracks <b>LofiGang</b>'s activity over time as there are evidence the actor
+                    This open-source project tracks <b>LofyGang</b>'s activity over time as there are evidence the actor
                     is still active. All information provided here is intended for research purposes.
                     <br>
                     <br>
