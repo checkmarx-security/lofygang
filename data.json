@@ -3739,5 +3739,25 @@
     "available": false,
     "sample": true,
     "github_username": []
+  },
+  {
+    "name": "console_colored",
+    "type": "npm",
+    "username": "kakau19394894",
+    "email": [
+      "sorteiorsrs123@gmail.com"
+    ],
+    "date": "2021-11-21",
+    "version": "1.4.0",
+    "servers": [
+      "https://discord.com/api/webhooks/905040941210009600/ePUsX_HQO2urHu8dGxIRe4Xc7f2oBYBOefzSqZOofWBOWf329EWAZ6Ou_YfHpRm4yscb",
+      "https://discord.com/api/webhooks/904528194634403941/L0VOc4iDPfIqrxAT7zdu6outRd_H1Msg6KWlp5puRsHomqBx403GQOiR33KEJgAUaMup"
+    ],
+    "group": [
+      "color"
+    ],
+    "available": false,
+    "sample": true,
+    "github_username": []
   }
 ]
