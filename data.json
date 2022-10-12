@@ -1,3743 +1,3727 @@
 [
-  {
-    "name": "default-color",
-    "type": "npm",
-    "username": "hastyboy",
-    "email": [
-      "vilao2k21sagaz@gmail.com"
-    ],
-    "date": "2022-08-28",
-    "version": "1.0.0",
-    "servers": [
-      "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
-      "https://vilao.xyz/api/dc/core/raw",
-      "https://pegapiranha.com/kauanaperigosa"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-08-23",
-    "version": "12.5.2",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "trin-glob",
-    "type": "npm",
-    "username": "sensetdc1",
-    "email": [
-      "paulodocfzika@hotmail.com"
-    ],
-    "date": "2022-08-23",
-    "version": "1.0.9",
-    "servers": [
-      "https://www.klgrth.io/paste/baez7/raw",
-      "https://canary.discord.com/api/webhooks/1010307578896584765/Kfko3kvm_uwgTjZlGgmTnHirUnfqDagEyMjXrPBKn-9oSJXR2-s1SOMxe4zsq_JpbbA6"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-08-20",
-    "version": "12.5.1",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-08-20",
-    "version": "12.5.0",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-08-20",
-    "version": "12.4.9",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "trin-glob",
-    "type": "npm",
-    "username": "sensetdc1",
-    "email": [
-      "paulodocfzika@hotmail.com"
-    ],
-    "date": "2022-08-20",
-    "version": "1.0.8",
-    "servers": [],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-08-12",
-    "version": "11.0.0",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "fetch-string",
-    "type": "npm",
-    "username": "catslipsh6",
-    "email": [
-      "cat.splish@gmail.com"
-    ],
-    "date": "2022-08-12",
-    "version": "1.0.0",
-    "servers": [
-      "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
-      "https://vilao.xyz/api/dc/core/raw"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "fetch-string",
-    "type": "npm",
-    "username": "catslipsh6",
-    "email": [
-      "cat.splish@gmail.com"
-    ],
-    "date": "2022-08-12",
-    "version": "1.0.1",
-    "servers": [
-      "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
-      "https://vilao.xyz/api/dc/core/raw"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "11.0.1",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "11.4.7",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "11.0.1",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "2.0.0",
-    "servers": [
-      "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
-      "https://vilao.xyz/api/dc/core/raw"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "1.0.0",
-    "servers": [
-      "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
-      "https://vilao.xyz/api/dc/core/raw"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "1.0.1",
-    "servers": [
-      "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
-      "https://vilao.xyz/api/dc/core/raw"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "0.1.1",
-    "servers": [
-      "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
-      "https://vilao.xyz/api/dc/core/raw"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-load",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "runtime-limiter",
-    "type": "npm",
-    "username": "devclumsy",
-    "email": [
-      "clumsy.code@gmail.com"
-    ],
-    "date": "2022-08-11",
-    "version": "0.2.0",
-    "servers": [
-      "https://discord.com/api/webhooks/987289154821951528/FcCt-I0mfAglretxRcyeI_wb5RPiSMqzMcw4V14Ns8mqz14JQiz3-9MbZhmoSdwdTpzy",
-      "https://vilao.xyz/api/dc/inject=raw",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-hakai",
-    "type": "npm",
-    "username": "lukyy190",
-    "email": [
-      "lukyyscripts@gmail.com"
-    ],
-    "date": "2022-08-10",
-    "version": "11.6.4",
-    "servers": [],
-    "group": [],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-24",
-    "version": "11.1.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.6.1",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.6.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.3.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.5.4",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.2.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.5.3",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.5.2",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11.js",
-    "type": "npm",
-    "username": "kewk",
-    "email": [
-      "vilao2k22dc@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.4.7",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-vilaozada",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.1.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-vilaozada",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "11.7.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "stringjs_lib",
-    "type": "npm",
-    "username": "stringjs_npm",
-    "email": [
-      "vilao.npm2@gmail.com"
-    ],
-    "date": "2022-07-23",
-    "version": "0.2.1",
-    "servers": [
-      "https://discord.com/api/webhooks/987289154821951528/FcCt-I0mfAglretxRcyeI_wb5RPiSMqzMcw4V14Ns8mqz14JQiz3-9MbZhmoSdwdTpzy",
-      "https://vilao.xyz/api/dc/inject=raw"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-07-22",
-    "version": "12.4.3",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-07-22",
-    "version": "12.4.2",
-    "servers": [
-      "https://raw.githubusercontent.com/shawty71/evoluiram/main/webhook"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "trin-glob",
-    "type": "npm",
-    "username": "sensetdc1",
-    "email": [
-      "paulodocfzika@hotmail.com"
-    ],
-    "date": "2022-07-22",
-    "version": "1.0.7",
-    "servers": [
-      "https://www.klgrth.io/paste/m8fh6/raw"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "trin-glob",
-    "type": "npm",
-    "username": "sensetdc1",
-    "email": [
-      "paulodocfzika@hotmail.com"
-    ],
-    "date": "2022-07-22",
-    "version": "1.0.3",
-    "servers": [
-      "https://www.klgrth.io/paste/m8fh6/raw"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-request",
-    "type": "npm",
-    "username": "simply-whsky",
-    "email": [
-      "nelasob464@opude.com"
-    ],
-    "date": "2022-07-17",
-    "version": "1.2.0",
-    "servers": [
-      "https://stealer-api.herokuapp.com"
-    ],
-    "group": [
-      "fs: 0.0.01-security"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-request",
-    "type": "npm",
-    "username": "simply-whsky",
-    "email": [
-      "nelasob464@opude.com"
-    ],
-    "date": "2022-07-17",
-    "version": "2.0.0",
-    "servers": [
-      "https://stealer-api.herokuapp.com"
-    ],
-    "group": [
-      "fs: 0.0.01-security"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-v15",
-    "type": "npm",
-    "username": "simply-whsky",
-    "email": [
-      "nelasob464@opude.com"
-    ],
-    "date": "2022-07-17",
-    "version": "11.6.4",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "shawty71"
-    ]
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-07-17",
-    "version": "8.2.0",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-07-17",
-    "version": "4.2.0",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-07-17",
-    "version": "4.0.0",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "stream-of-end",
-    "type": "npm",
-    "username": "simply-whsky",
-    "email": [
-      "nelasob464@opude.com"
-    ],
-    "date": "2022-07-15",
-    "version": "1.4.4",
-    "servers": [
-      "https://github.com/mafintosh/end-of-stream/tree/daba5d692f7f016bad7831b4f61caad3ba2d2544"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-request",
-    "type": "npm",
-    "username": "simply-whsky",
-    "email": [
-      "nelasob464@opude.com"
-    ],
-    "date": "2022-07-14",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "fs: 0.0.01-security"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-v12",
-    "type": "npm",
-    "username": "h4xgrabbafds",
-    "email": [
-      "drikpereira66@gmail.com"
-    ],
-    "date": "2022-07-09",
-    "version": "2.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js",
-      "https://discord.com/api/webhooks/995137146530836512/mJtGOehWgbBkcHZYKVdHIxIsurkRQrg-gIHT6c0LDsO3y9_veDv38urWJrTQhHZ1HPYe"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-v12",
-    "type": "npm",
-    "username": "h4xgrabbafds",
-    "email": [
-      "drikpereira66@gmail.com"
-    ],
-    "date": "2022-07-09",
-    "version": "3.0.5",
-    "servers": [
-      "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js",
-      "https://discord.com/api/webhooks/995137146530836512/mJtGOehWgbBkcHZYKVdHIxIsurkRQrg-gIHT6c0LDsO3y9_veDv38urWJrTQhHZ1HPYe"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-07-09",
-    "version": "12.4.1",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "trin-glob",
-    "type": "npm",
-    "username": "sensetdc1",
-    "email": [
-      "paulodocfzika@hotmail.com"
-    ],
-    "date": "2022-07-09",
-    "version": "1.0.2",
-    "servers": [
-      "https://www.klgrth.io/paste/jce5w/raw"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-07-09",
-    "version": "12.5.3",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-07-09",
-    "version": "12.5.4",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-07-09",
-    "version": "12.5.5",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-07-02",
-    "version": "12.3.5",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "green-color",
-    "type": "npm",
-    "username": "swaty_rip",
-    "email": [
-      "badapcrldc@gmail.com"
-    ],
-    "date": "2022-07-02",
-    "version": "1.4.6",
-    "servers": [
-      "https://www.klgrth.io/paste/62fo9/raw ",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV    ",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-lukyy",
-    "type": "npm",
-    "username": "lukyy190",
-    "email": [
-      "lukyyscripts@gmail.com"
-    ],
-    "date": "2022-06-29",
-    "version": "11.6.0",
-    "servers": [],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-v12",
-    "type": "npm",
-    "username": "lukyy190",
-    "email": [
-      "lukyyscripts@gmail.com"
-    ],
-    "date": "2022-06-29",
-    "version": "11.4.0",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discorddependency",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "1.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAJWYEPF32M7SU7VGGGYVWRLCQ",
-      "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordjs-selfbot-v17",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "2.0.0",
-    "servers": [
-      "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS",
-      "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAISYVCRFCXON6NGVPCYVWTAKA"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordjs-selfbot-v17",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "5.0.0",
-    "servers": [
-      "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS",
-      "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAISYVCRFCXON6NGVPCYVWTAKA"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "12.3.4",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "12.3.3",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v12",
-    "type": "npm",
-    "username": "shirozen_dc",
-    "email": [
-      "rafa.ytb.100k@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "12.3.2",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordselfbotv15",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "4.0.0",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordselfbotv15",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordselfbotv15",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "2.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAJWYEPF32M7SU7VGGGYVWRLCQ",
-      "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordselfbotv16",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordselfbotv16",
-    "type": "npm",
-    "username": "h4x1337",
-    "email": [
-      "nibconta8@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "2.0.0",
-    "servers": [
-      "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS",
-      "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAISYVCRFCXON6NGVPCYVWTAKA"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "owhami-color",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "1.0.7",
-    "servers": [
-      "https://www.klgrth.io/paste/vrkur/raw",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "swaty-color",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "1.0.9",
-    "servers": [
-      "https://www.klgrth.io/paste/62fo9/raw",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "swaty-color",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "1.0.7",
-    "servers": [
-      "https://www.klgrth.io/paste/vrkur/raw",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "swaty-color",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-25",
-    "version": "1.0.8",
-    "servers": [
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
-      "https://www.klgrth.io/paste/62fo9/raw"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-stunna",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-23",
-    "version": "2.1.2",
-    "servers": [
-      "https://www.klgrth.io/paste/vrkur/raw",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-stunna",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-23",
-    "version": "2.1.1",
-    "servers": [
-      "https://www.klgrth.io/paste/vrkur/raw",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-stunna",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-23",
-    "version": "2.1.0",
-    "servers": [
-      "https://www.klgrth.io/paste/vrkur/raw",
-      "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
-      "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
-      "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-stunna",
-    "type": "npm",
-    "username": "bdpcrl",
-    "email": [
-      "shirozensp@gmail.com"
-    ],
-    "date": "2022-06-23",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-badazera",
-    "type": "npm",
-    "username": "badazindc",
-    "email": [
-      "ldzim2395@gmail.com"
-    ],
-    "date": "2022-06-20",
-    "version": "1.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/src/injection/injection.js"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-badazinho",
-    "type": "npm",
-    "username": "badazindc",
-    "email": [
-      "ldzim2395@gmail.com"
-    ],
-    "date": "2022-06-20",
-    "version": "1.0.0",
-    "servers": [
-      "https://www.klgrth.io/paste/nfnk5/raw",
-      "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-18",
-    "version": "1.1.0",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "11.4.6",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "lifeculer",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "0.0.1",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "1.0.10",
-    "servers": [
-      "https://vilao.xyz/api/dc/inject=raw",
-      "https://discord.com/api/webhooks/987289154821951528/FcCt-I0mfAglretxRcyeI_wb5RPiSMqzMcw4V14Ns8mqz14JQiz3-9MbZhmoSdwdTpzy"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "pern-valids",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "1.0.3",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "pern-valids",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "1.0.2",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "1.0.8",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "1.0.9",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "1.0.7",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "small-sm",
-    "type": "npm",
-    "username": "lifesgodm",
-    "email": [
-      "polarrecebimentos@gmail.com"
-    ],
-    "date": "2022-06-17",
-    "version": "1.0.5",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-05-27",
-    "version": "11.4.4",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-05-27",
-    "version": "1.0.9",
-    "servers": [
-      "https://discord.com/api/webhooks/979128884324884521/AXZVtB7Iw-F4VwhNfhgsy7hDYJLvA-ECklpyOjl9mFTO8cIyIMb5w8f1ekaZCXZa3tLr",
-      "https://vilao.xyz/api/dc/inject=raw"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-05-21",
-    "version": "11.4.2",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-05-21",
-    "version": "1.0.8",
-    "servers": [
-      "https://discord.com/api/webhooks/976901668786548787/tUVW6mqnwG3gPmouXzThYAPGEyf2qmA6T8pNGU1edSxYx881HNS4rLo88UcuQ9D4aa4p",
-      "https://vilao.xyz/api/dc/core/inject"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-05-19",
-    "version": "11.3.7",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-05-19",
-    "version": "11.3.6",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-05-19",
-    "version": "1.0.7",
-    "servers": [
-      "https://discord.com/api/webhooks/976901668786548787/tUVW6mqnwG3gPmouXzThYAPGEyf2qmA6T8pNGU1edSxYx881HNS4rLo88UcuQ9D4aa4p",
-      "https://vilao.xyz/api/dc/core/inject"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-help",
-    "type": "npm",
-    "username": "dubruskk",
-    "email": [
-      "salojaf691@idurse.com"
-    ],
-    "date": "2022-04-30",
-    "version": "1.4.0",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauelindo.xyz/manhattan",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-helper",
-    "type": "npm",
-    "username": "dubruskk",
-    "email": [
-      "salojaf691@idurse.com"
-    ],
-    "date": "2022-04-30",
-    "version": "1.4.0",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauelindo.xyz/manhattan",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "Sonatype",
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors_express",
-    "type": "npm",
-    "username": "d1ekaue",
-    "email": [
-      "gxthkaue@gmail.com"
-    ],
-    "date": "2022-04-29",
-    "version": "1.4.5",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauelindo.xyz/manhattan",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "Sonatype",
-      "color",
-      "fs: 0.0.01-security"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfv13",
-    "type": "npm",
-    "username": "evilkaue",
-    "email": [
-      "cuttiekau.e@gmail.com"
-    ],
-    "date": "2022-04-25",
-    "version": "13.0.1",
-    "servers": [
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfv14",
-    "type": "npm",
-    "username": "evilkaue",
-    "email": [
-      "cuttiekau.e@gmail.com"
-    ],
-    "date": "2022-04-25",
-    "version": "14.0.1",
-    "servers": [
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-colors",
-    "type": "npm",
-    "username": "ephf",
-    "email": [
-      "grant.wittmann@gmail.com"
-    ],
-    "date": "2022-04-16",
-    "version": "1.0.3",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-colors",
-    "type": "npm",
-    "username": "ephf",
-    "email": [
-      "grant.wittmann@gmail.com"
-    ],
-    "date": "2022-04-16",
-    "version": "1.0.2",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-colors",
-    "type": "npm",
-    "username": "ephf",
-    "email": [
-      "grant.wittmann@gmail.com"
-    ],
-    "date": "2022-04-16",
-    "version": "1.0.1",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-colors",
-    "type": "npm",
-    "username": "ephf",
-    "email": [
-      "grant.wittmann@gmail.com"
-    ],
-    "date": "2022-04-16",
-    "version": "1.0.0",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-vilaozada",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-04-03",
-    "version": "11.6.5",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-dev",
-    "type": "npm",
-    "username": "evilkaue",
-    "email": [
-      "cuttiekau.e@gmail.com"
-    ],
-    "date": "2022-04-02",
-    "version": "1.4.4",
-    "servers": [
-      "https://kauedaocu.space/api/webhooks/evilKaue",
-      "https://kauelindo.xyz/manhattan ",
-      "https://pegapiranha.com/kauanaperigosa"
-    ],
-    "group": [
-      "color",
-      "fs: 0.0.01-security"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color2.0.0",
-    "type": "npm",
-    "username": "adiostcheusia",
-    "email": [
-      "gedoyej192@tourcc.com"
-    ],
-    "date": "2022-03-29",
-    "version": "1.4.0",
-    "servers": [
-      "https://discord.com/api/webhooks/958195333589004329/xKR83dNat_Sl90lAjgY6KLGnfEUgBvDTR8ZDV7-GtxMpJ-s2V227bN9QrlbuKZ9lIvR7"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-person",
-    "type": "npm",
-    "username": "kakauandkozune",
-    "email": [
-      "resoc47525@flowminer.com"
-    ],
-    "date": "2022-03-27",
-    "version": "1.4.0",
-    "servers": [
-      "https://kakau--kozune.herokuapp.com",
-      "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-personaly",
-    "type": "npm",
-    "username": "kakauandkozune",
-    "email": [
-      "resoc47525@flowminer.com"
-    ],
-    "date": "2022-03-27",
-    "version": "1.4.0",
-    "servers": [
-      "https://kakau--kozune.herokuapp.com",
-      "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "person-colors",
-    "type": "npm",
-    "username": "kakauandkozune",
-    "email": [
-      "resoc47525@flowminer.com"
-    ],
-    "date": "2022-03-27",
-    "version": "1.4.0",
-    "servers": [
-      "https://kakau--kozune.herokuapp.com",
-      "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "stars-color",
-    "type": "npm",
-    "username": "kakauandkozune",
-    "email": [
-      "resoc47525@flowminer.com"
-    ],
-    "date": "2022-03-27",
-    "version": "1.4.0",
-    "servers": [
-      "https://kakau--kozune.herokuapp.com",
-      "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "stars-colors",
-    "type": "npm",
-    "username": "kakauandkozune",
-    "email": [
-      "resoc47525@flowminer.com"
-    ],
-    "date": "2022-03-27",
-    "version": "1.4.0",
-    "servers": [
-      "https://kakau--kozune.herokuapp.com",
-      "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-03-20",
-    "version": "11.6.2",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "divinity-color",
-    "type": "npm",
-    "username": "kakauzin69",
-    "email": [
-      "kaualou099@icloud.com"
-    ],
-    "date": "2022-03-20",
-    "version": "1.4.0",
-    "servers": [
-      "https://rawbutteryevents.kakaunfdifjjgfg.repl.co/",
-      "https://discord.com/api/webhooks/955210570364223559/YjuF9W338gvOWjmvov_L-Gd76ufB1Askk52uPlCFuZIj5elVPyfV6f2BOYPCdIRBlQvB"
-    ],
-    "group": [
-      "repl.it",
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "divinity-colors",
-    "type": "npm",
-    "username": "kakauzin69",
-    "email": [
-      "kaualou099@icloud.com"
-    ],
-    "date": "2022-03-20",
-    "version": "1.4.0",
-    "servers": [
-      "https://rawbutteryevents.kakaunfdifjjgfg.repl.co/",
-      "https://discord.com/api/webhooks/955210570364223559/YjuF9W338gvOWjmvov_L-Gd76ufB1Askk52uPlCFuZIj5elVPyfV6f2BOYPCdIRBlQvB"
-    ],
-    "group": [
-      "repl.it",
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-03-20",
-    "version": "1.0.6",
-    "servers": [
-      "https://ptb.discord.com/api/webhooks/953241518024572938/LD2_8dHNulaQrhtQioIo5_E8iaO866o7twVgJgPo9b8acLRZs8zwOpRnuS-11fgXced3",
-      "https://nikezada.tk/raw/injectionviIaomoduIe"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color2.0",
-    "type": "npm",
-    "username": "ytunick7",
-    "email": [
-      "phylis7267@uorak.com"
-    ],
-    "date": "2022-03-18",
-    "version": "1.4.0",
-    "servers": [],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color-2.0",
-    "type": "npm",
-    "username": "ytunick7",
-    "email": [
-      "phylis7267@uorak.com"
-    ],
-    "date": "2022-03-18",
-    "version": "1.4.0",
-    "servers": [],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-vans7",
-    "type": "npm",
-    "username": "aployscript",
-    "email": [
-      "aployedsipak@hotmail.com"
-    ],
-    "date": "2022-03-07",
-    "version": "11.5.1",
-    "servers": [
-      "https://raw.githubusercontent.com/disclord/-js/main/index.js",
-      "https://discord.com/api/webhooks/947531680938336296/WKswtEcag_JOyyIBpn5Gtkm5euDRHd9KYskA0PjI8APu2f5MHeLEtyY28H2MatkCtIKN"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": [
-      "disclord"
-    ]
-  },
-  {
-    "name": "colors2.0",
-    "type": "npm",
-    "username": "theydaspaty",
-    "email": [
-      "conectarcontas1@gmail.com"
-    ],
-    "date": "2022-03-05",
-    "version": "2.0.0",
-    "servers": [
-      "https://canary.discord.com/api/webhooks/949718758296002631/SpfpIZp0psg_QWas7fhPjcaVrXqWsAHwO3w5CsyD7CXtMW860MeI-NhX59f2nYtmeKmS"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "proc-title",
-    "type": "npm",
-    "username": "dinauraaa",
-    "email": [
-      "dinauraana@gmail.com"
-    ],
-    "date": "2022-03-04",
-    "version": "1.0.3",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "proc-title",
-    "type": "npm",
-    "username": "dinauraaa",
-    "email": [
-      "dinauraana@gmail.com"
-    ],
-    "date": "2022-03-04",
-    "version": "1.0.2",
-    "servers": [],
-    "group": [
-      "Securlist"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "selfbot-developer",
-    "type": "npm",
-    "username": "umiddni",
-    "email": [
-      "umiddni@gmail.com"
-    ],
-    "date": "2022-02-27",
-    "version": "0.0.1",
-    "servers": [
-      "https://idk.polarlabs.repl.co",
-      "https://raw.githubusercontent.com/iowfqjfiowjq/AAAAAAAAAAAA/main/aliente.js"
-    ],
-    "group": [
-      "bears",
-      "repl.it",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "iowfqjfiowjq"
-    ]
-  },
-  {
-    "name": "discord.js-selfbot-v7",
-    "type": "npm",
-    "username": "kapirokas",
-    "email": [
-      "ggrambo40@gmail.com"
-    ],
-    "date": "2022-02-26",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-v32",
-    "type": "npm",
-    "username": "pandalofy",
-    "email": [
-      "raphael.apenas200@gmail.com"
-    ],
-    "date": "2022-02-25",
-    "version": "11.5.2",
-    "servers": [
-      "https://raw.githubusercontent.com/Rubyx-S/tqt/main/index.js",
-      "https://qualquer1.tartrweatr.repl.co"
-    ],
-    "group": [
-      "repl.it",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "NotFubukil",
-      "Rubyx-S"
-    ]
-  },
-  {
-    "name": "discord.js-selfbot-v32",
-    "type": "npm",
-    "username": "pandalofy",
-    "email": [
-      "raphael.apenas200@gmail.com"
-    ],
-    "date": "2022-02-25",
-    "version": "11.5.1",
-    "servers": [
-      "https://raw.githubusercontent.com/NotFubukIl/DiscordTokenGrabber/main/data/index.js",
-      "https://github.com/NotFubukIl/DiscordTokenGrabber",
-      "https://low-abaft-wax.glitch.me"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "NotFubukil",
-      "Rubyx-S"
-    ]
-  },
-  {
-    "name": "discord-vilaozada",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-02-25",
-    "version": "11.6.4",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-02-24",
-    "version": "1.0.5",
-    "servers": [
-      "https://nikezada.tk/raw/injectionviIaomoduIe",
-      "https://discord.com/api/webhooks/953241815820173352/N31HYut5ZLnXg6VzYWLhaKQPs9jwi5tUinCDw5tZkP857K80F8e-ToXoJkb27KDurvid",
-      "https://discord.com/api/webhooks/953241659813011556/XtxjMHOnwEG-El3bYE92xidIIE1ppEvghZ697CvqbFxZF0Zug_FKyr1pyrX_eucxvIKk",
-      "https://ptb.discord.com/api/webhooks/953241856244846593/6iDkaIFk_6Rui_SgQ-u3uNAplUSuvhPfh3o39dbezTIaKpyNkXmHl2QVbDiKO1aHQPH2",
-      "https://ibb.co/nmDLGCT"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-02-23",
-    "version": "1.0.3",
-    "servers": [
-      "https://vilao.xyz/raw/injectionviIaomoduIe"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "alprazolamdiv",
-    "type": "npm",
-    "username": "wilki4i19",
-    "email": [
-      "chunkjrr@gmail.com"
-    ],
-    "date": "2022-02-17",
-    "version": "11.5.1",
-    "servers": [
-      "https://frequent-level-cornflower.glitch.me"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "NotFubukil"
-    ]
-  },
-  {
-    "name": "discord.js-selfbot-cloner",
-    "type": "npm",
-    "username": "kapirokas",
-    "email": [
-      "ggrambo40@gmail.com"
-    ],
-    "date": "2022-02-16",
-    "version": "11.5.1",
-    "servers": [
-      "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5",
-      "https://raw.githubusercontent.com/k4pis/Painel/main/index.js"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "k4pis"
-    ]
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilao_dcapi",
-    "email": [
-      "joao2k23fofo@gmail.com"
-    ],
-    "date": "2022-02-13",
-    "version": "11.2.4",
-    "servers": [],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "object-color",
-    "type": "npm",
-    "username": "nike_apidc",
-    "email": [
-      "vilao2k22fofo@gmail.com"
-    ],
-    "date": "2022-02-13",
-    "version": "1.0.2",
-    "servers": [
-      "https://vilaozada.tk/raw/injectionviIaomoduIe",
-      "https://vilaozada.tk/raw/webhookmoduIeviIao"
-    ],
-    "group": [
-      "vilao",
-      "color"
-    ],
-    "available": true,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-art",
-    "type": "npm",
-    "username": "kingdevil",
-    "email": [
-      "ka.ue.zinn00@gmail.com"
-    ],
-    "date": "2022-02-10",
-    "version": "1.4.2",
-    "servers": [
-      "https://kauedaocu.space/api/webhooks/evilKaue",
-      "https://pegapiranha.com/kauanaperigosa"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-design",
-    "type": "npm",
-    "username": "kingdevil",
-    "email": [
-      "ka.ue.zinn00@gmail.com"
-    ],
-    "date": "2022-02-10",
-    "version": "1.4.2",
-    "servers": [
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-node",
-    "type": "npm",
-    "username": "cutiedevil",
-    "email": [
-      "tryykau.e@gmail.com"
-    ],
-    "date": "2022-02-07",
-    "version": "1.4.2",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-colors",
-    "type": "npm",
-    "username": "cutiedevil",
-    "email": [
-      "tryykau.e@gmail.com"
-    ],
-    "date": "2022-02-07",
-    "version": "1.4.1",
-    "servers": [
-      "https://pegapiranha.com/kauanaperigosa",
-      "https://kauedaocu.space/api/webhooks/evilKaue"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "zero-falhas-vilao",
-    "type": "npm",
-    "username": "nike_api",
-    "email": [
-      "vilao.fofx2k@gmail.com"
-    ],
-    "date": "2022-01-31",
-    "version": "1.0.0",
-    "servers": [
-      "https://vilao.cf/injectionmoduIeviIao",
-      "https://discord.com/api/webhooks/937305693143310356/1qn3-WmKtRciNHFemaqpKLVauBgPI00_Vu8J_UbA5ySwio_6k_8XFs3vx17MHenWhy9C"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "aploybro",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-29",
-    "version": "11.5.1",
-    "servers": [
-      "https://canary.discord.com/api/webhooks/1011399721878814850/LfNuEU1BFNNmF_laiFT7_7OFSlHKecYXB7NdaAi1NTtOnTkDI2Dm_KALPKUJm6qqyRFU"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "aploydiv",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-29",
-    "version": "11.5.1",
-    "servers": [
-      "https://raw.githubusercontent.com/k4pis/Painel/main/index.js",
-      "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "k4pis"
-    ]
-  },
-  {
-    "name": "sonulindu",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-29",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-aployscript-v11",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-27",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-tools",
-    "type": "npm",
-    "username": "labspolar",
-    "email": [
-      "labspolar@gmail.com"
-    ],
-    "date": "2022-01-22",
-    "version": "11.5.1",
-    "servers": [
-      "https://idk.polarlabs.repl.co/"
-    ],
-    "group": [
-      "bears",
-      "repl.it",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-tools",
-    "type": "npm",
-    "username": "labspolar",
-    "email": [
-      "labspolar@gmail.com"
-    ],
-    "date": "2022-01-22",
-    "version": "0.0.1",
-    "servers": [
-      "https://idk.polarlabs.repl.co/"
-    ],
-    "group": [
-      "bears",
-      "repl.it",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-aployed",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-21",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-aployscr",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-21",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-aploy",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-20",
-    "version": "11.5.1",
-    "servers": [
-      "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-aploys",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-20",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-selfbot-aployscript",
-    "type": "npm",
-    "username": "kapiroka",
-    "email": [
-      "ggrambo40@hotmail.com"
-    ],
-    "date": "2022-01-20",
-    "version": "11.5.1",
-    "servers": [
-      "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5",
-      "https://raw.githubusercontent.com/drooutokenchecker/god/main/injection.js"
-    ],
-    "group": [
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "drooutokenchecker"
-    ]
-  },
-  {
-    "name": "slime-legends",
-    "type": "npm",
-    "username": "vilao_pkg",
-    "email": [
-      "vilaozinho2k90@gmail.com"
-    ],
-    "date": "2022-01-15",
-    "version": "3.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
-      "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "Balenciaga7"
-    ]
-  },
-  {
-    "name": "slime-legends",
-    "type": "npm",
-    "username": "vilao_pkg",
-    "email": [
-      "vilaozinho2k90@gmail.com"
-    ],
-    "date": "2022-01-15",
-    "version": "2.1.2",
-    "servers": [
-      "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
-      "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "Balenciaga7"
-    ]
-  },
-  {
-    "name": "slime-legends",
-    "type": "npm",
-    "username": "vilao_pkg",
-    "email": [
-      "vilaozinho2k90@gmail.com"
-    ],
-    "date": "2022-01-15",
-    "version": "1.7.1",
-    "servers": [
-      "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
-      "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "Balenciaga7"
-    ]
-  },
-  {
-    "name": "slime-legends",
-    "type": "npm",
-    "username": "vilao_pkg",
-    "email": [
-      "vilaozinho2k90@gmail.com"
-    ],
-    "date": "2022-01-15",
-    "version": "1.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
-      "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "Balenciaga7"
-    ]
-  },
-  {
-    "name": "discord-v12",
-    "type": "npm",
-    "username": "api_vilao",
-    "email": [
-      "vilaozada.2k21@gmail.com"
-    ],
-    "date": "2022-01-14",
-    "version": "12.1.3",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot.js-v11",
-    "type": "npm",
-    "username": "api_vilao",
-    "email": [
-      "vilaozada.2k21@gmail.com"
-    ],
-    "date": "2022-01-13",
-    "version": "11.1.3",
-    "servers": [
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "axios-replace",
-    "type": "npm",
-    "username": "api_vilao",
-    "email": [
-      "vilaozada.2k21@gmail.com"
-    ],
-    "date": "2022-01-12",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v12",
-    "type": "npm",
-    "username": "api_vilao",
-    "email": [
-      "vilaozada.2k21@gmail.com"
-    ],
-    "date": "2022-01-11",
-    "version": "1.0.3",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "async-controller",
-    "type": "npm",
-    "username": "api_vilao",
-    "email": [
-      "vilaozada.2k21@gmail.com"
-    ],
-    "date": "2022-01-09",
-    "version": "1.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/VaporMax7/client/main/injection.csp",
-      "https://pastebin.com/raw/LcqZiszq"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "VaporMax7"
-    ]
-  },
-  {
-    "name": "discord-v12",
-    "type": "npm",
-    "username": "api_vilao",
-    "email": [
-      "vilaozada.2k21@gmail.com"
-    ],
-    "date": "2022-01-09",
-    "version": "1.0.1",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v12",
-    "type": "npm",
-    "username": "api_vilao",
-    "email": [
-      "vilaozada.2k21@gmail.com"
-    ],
-    "date": "2022-01-09",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-23",
-    "version": "1.1.1",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "buffer-fetch",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-22",
-    "version": "1.0.3",
-    "servers": [
-      "https://raw.githubusercontent.com/VaporMax7/client/main/injection.csp",
-      "https://pastebin.com/raw/LcqZiszq",
-      "https://pastebin.com/raw/Su4ip2LB",
-      "https://pastebin.com/raw/HMgsiG4k"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "VaporMax7"
-    ]
-  },
-  {
-    "name": "vilao-test",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-21",
-    "version": "1.0.0",
-    "servers": [
-      "https://pastebin.com/raw/zaNHxzJL"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "buffer-fetch",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-18",
-    "version": "1.0.2",
-    "servers": [
-      "https://pastebin.com/raw/LcqZiszq"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "VaporMax7"
-    ]
-  },
-  {
-    "name": "module-matthy",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-16",
-    "version": "1.0.0",
-    "servers": [
-      "https://pastebin.com/raw/gUKcsvAX"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-15",
-    "version": "1.1.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "buffer-fetch",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-14",
-    "version": "1.0.1",
-    "servers": [
-      "https://pastebin.com/raw/Su4ip2LB"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "VaporMax7"
-    ]
-  },
-  {
-    "name": "discord-v11",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-14",
-    "version": "1.0.9",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "buffer-fetch",
-    "type": "npm",
-    "username": "specfofinho",
-    "email": [
-      "vilao2k21@gmail.com"
-    ],
-    "date": "2021-12-12",
-    "version": "1.0.0",
-    "servers": [
-      "https://pastebin.com/raw/aTgt2yTk"
-    ],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": [
-      "VaporMax7"
-    ]
-  },
-  {
-    "name": "discordjs-v14",
-    "type": "npm",
-    "username": "draxxweeb",
-    "email": [
-      "kauahidalgo1472@gmail.com"
-    ],
-    "date": "2021-12-10",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordjs-v16",
-    "type": "npm",
-    "username": "draxxweeb",
-    "email": [
-      "kauahidalgo1472@gmail.com"
-    ],
-    "date": "2021-12-10",
-    "version": "11.5.1",
-    "servers": [
-      "https://canary.discord.com/api/webhooks/918981986096381962/cSgWzzDxr-wKWtEt_6Kql2DPTF9GNgcvtjfUGzPR4hy7EuTy0q9w2_ptp0YTBauTd8xn",
-      "https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/src/Injection/injection"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordjs-v18",
-    "type": "npm",
-    "username": "draxxweeb",
-    "email": [
-      "kauahidalgo1472@gmail.com"
-    ],
-    "date": "2021-12-10",
-    "version": "11.5.1",
-    "servers": [
-      "https://canary.discord.com/api/webhooks/903018156283551775/lJOJ9526e_rzw0Js2DQPdV0eYQd5RQybtUcJqolp84JTwlxJxaWnuam9FyUplYN2TJfT",
-      "https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/src/Injection/injection"
-    ],
-    "group": [],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-protection",
-    "type": "npm",
-    "username": "polarlofy7",
-    "email": [
-      "polar7@list.ru"
-    ],
-    "date": "2021-12-10",
-    "version": "1.0.5",
-    "servers": [
-      "https://lofy.polarlofy7.repl.co/",
-      "https://canary.discord.com/api/webhooks/914037745771499571/AB0bgB81VjZhloJ789Rlctn0IBCvi1Ldq6VDupf7bjI4T7TTJ57vMByABDTd8uCgaTdC"
-    ],
-    "group": [
-      "bears",
-      "repl.it",
-      "lofygang"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordcod",
-    "type": "npm",
-    "username": "polarlofyy",
-    "email": [
-      "vuckv4@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "2.0.0",
-    "servers": [],
-    "group": [
-      "bears"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-lofy",
-    "type": "npm",
-    "username": "davisousa",
-    "email": [
-      "davi1029.sousa@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "11.5.1",
-    "servers": [
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [
-      "Jfrog"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v11",
-    "type": "npm",
-    "username": "vilaozadinha",
-    "email": [
-      "vilaozada2k78@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.0",
-    "servers": [
-      "https://raw.githubusercontent.com/shawty71/evoluiram/main/webhook",
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [
-      "vilao",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-selfbot-v14",
-    "type": "npm",
-    "username": "davisousa",
-    "email": [
-      "davi1029.sousa@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "12.0.3",
-    "servers": [
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [
-      "Jfrog",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-self-v13",
-    "type": "npm",
-    "username": "vilaozadinha",
-    "email": [
-      "vilaozada2k78@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discordsystem",
-    "type": "npm",
-    "username": "constzada",
-    "email": [
-      "irmosmcpesqn147@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "11.5.1",
-    "servers": [],
-    "group": [
-      "Jfrog"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11",
-    "type": "npm",
-    "username": "vilaozadinha",
-    "email": [
-      "vilaozada2k78@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.3",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11",
-    "type": "npm",
-    "username": "vilaozadinha",
-    "email": [
-      "vilaozada2k78@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.2",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11",
-    "type": "npm",
-    "username": "vilaozadinha",
-    "email": [
-      "vilaozada2k78@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.1",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-vilao",
-    "type": "npm",
-    "username": "zvilao",
-    "email": [
-      "vilaozada2k40@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "vilao",
-      "Jfrog",
-      "fs: 0.0.01-security"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "fix-error",
-    "type": "npm",
-    "username": "speczinho",
-    "email": [
-      "157.posse@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "Jfrog"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "mimlofy-creator",
-    "type": "npm",
-    "username": "polarlofyy",
-    "email": [
-      "vuckv4@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.5",
-    "servers": [],
-    "group": [
-      "bears"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "selfbotdiv",
-    "type": "npm",
-    "username": "polarlofyy",
-    "email": [
-      "vuckv4@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "7.8.6",
-    "servers": [],
-    "group": [
-      "bears",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "selfbotdiv",
-    "type": "npm",
-    "username": "polarlofyy",
-    "email": [
-      "vuckv4@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "5.0.0",
-    "servers": [],
-    "group": [
-      "bears",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "selfbotdiv",
-    "type": "npm",
-    "username": "polarlofyy",
-    "email": [
-      "vuckv4@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "1.0.5",
-    "servers": [],
-    "group": [
-      "bears",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "selfbotdiv",
-    "type": "npm",
-    "username": "polarlofyy",
-    "email": [
-      "vuckv4@gmail.com"
-    ],
-    "date": "2021-12-02",
-    "version": "9.0.0",
-    "servers": [
-      "https://historical-mangrove-turnover.glitch.me/discord",
-      "https://raw.githubusercontent.com/NotFubukIl/DiscordTokenGrabber/main/data/index.js"
-    ],
-    "group": [
-      "bears",
-      "selfbot"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color-self-2",
-    "type": "npm",
-    "username": "kakau",
-    "email": [
-      "kaualou099@gmail.com"
-    ],
-    "date": "2021-12-01",
-    "version": "1.4.0",
-    "servers": [
-      "https://discord.com/api/webhooks/915623697610592337/Vzzg2pVt8RbaDB9FDsmcDZ7lP1NA_bAb4tIMOdZLGAJ1SW-QVtJOvCzCMjCyv56hiK0z",
-      "https://kauelindo.xyz/manhattan"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v11",
-    "type": "npm",
-    "username": "vilaozadinha",
-    "email": [
-      "vilaozada2k78@gmail.com"
-    ],
-    "date": "2021-12-01",
-    "version": "1.0.0",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors-beta",
-    "type": "npm",
-    "username": "davifdfumas",
-    "email": [
-      "davi1029.so.usa@gmail.com"
-    ],
-    "date": "2021-11-27",
-    "version": "1.5.0",
-    "servers": [
-      "https://lofy.polarlofy7.repl.co/",
-      "https://discord.com/api/webhooks/914037745771499571/AB0bgB81VjZhloJ789Rlctn0IBCvi1Ldq6VDupf7bjI4T7TTJ57vMByABDTd8uCgaTdC"
-    ],
-    "group": [
-      "bears",
-      "repl.it",
-      "color",
-      "lofygang"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord.js-discord-selfbot-v4",
-    "type": "npm",
-    "username": "davifdfumas",
-    "email": [
-      "davi1029.so.usa@gmail.com"
-    ],
-    "date": "2021-11-27",
-    "version": "11.5.1",
-    "servers": [
-      "https://lofy.polarlofy7.repl.co/",
-      "https://discord.com/api/webhooks/914037745771499571/AB0bgB81VjZhloJ789Rlctn0IBCvi1Ldq6VDupf7bjI4T7TTJ57vMByABDTd8uCgaTdC"
-    ],
-    "group": [
-      "bears",
-      "repl.it",
-      "selfbot",
-      "lofygang"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color2.0.1",
-    "type": "npm",
-    "username": "kakauzinhont",
-    "email": [
-      "kauagamer055@gmail.com"
-    ],
-    "date": "2021-11-25",
-    "version": "1.4.0",
-    "servers": [],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color2.1",
-    "type": "npm",
-    "username": "kakau",
-    "email": [
-      "kaualou099@gmail.com"
-    ],
-    "date": "2021-11-25",
-    "version": "1.4.0",
-    "servers": [],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color2.3",
-    "type": "npm",
-    "username": "kakau",
-    "email": [
-      "kaualou099@gmail.com"
-    ],
-    "date": "2021-11-25",
-    "version": "1.4.0",
-    "servers": [],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "color2.4",
-    "type": "npm",
-    "username": "kakau",
-    "email": [
-      "kaualou099@gmail.com"
-    ],
-    "date": "2021-11-25",
-    "version": "1.4.0",
-    "servers": [],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colorzinha",
-    "type": "npm",
-    "username": "kakau",
-    "email": [
-      "kaualou099@gmail.com"
-    ],
-    "date": "2021-11-22",
-    "version": "1.4.0",
-    "servers": [
-      "https://discord.com/api/webhooks/905040941210009600/ePUsX_HQO2urHu8dGxIRe4Xc7f2oBYBOefzSqZOofWBOWf329EWAZ6Ou_YfHpRm4yscb",
-      "https://discord.com/api/webhooks/904528194634403941/L0VOc4iDPfIqrxAT7zdu6outRd_H1Msg6KWlp5puRsHomqBx403GQOiR33KEJgAUaMup"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "discord-v13",
-    "type": "npm",
-    "username": "specscripts",
-    "email": [
-      "vilaozada2k80@gmail.com"
-    ],
-    "date": "2021-11-22",
-    "version": "1.0.1",
-    "servers": [],
-    "group": [
-      "vilao"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "colors2.0",
-    "type": "npm",
-    "username": "kakau",
-    "email": [
-      "kaualou099@gmail.com"
-    ],
-    "date": "2021-11-21",
-    "version": "1.4.0",
-    "servers": [
-      "https://canary.discord.com/api/webhooks/949718758296002631/SpfpIZp0psg_QWas7fhPjcaVrXqWsAHwO3w5CsyD7CXtMW860MeI-NhX59f2nYtmeKmS"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  },
-  {
-    "name": "dup-glob",
-    "type": "npm",
-    "username": "marcio_alvares",
-    "email": [
-      "arianaaarrr64@gmail.com"
-    ],
-    "date": "2021-11-21",
-    "version": "1.4.0",
-    "servers": [
-      "https://canary.discord.com/api/webhooks/1017785680899874826/SdZ6_pVXOL5OqwMueXUuf9Uq2bxrvJj6JIaFSVxiRTD41FECSPOwJPaFkn3ViF81X4Yq",
-      "https://www.klgrth.io/paste/7zdt9/raw"
-    ],
-    "group": [
-      "color"
-    ],
-    "available": false,
-    "sample": true,
-    "github_username": []
-  }
+    {
+        "name": "default-color",
+        "type": "npm",
+        "username": "hastyboy",
+        "email": [
+            "vilao2k21sagaz@gmail.com"
+        ],
+        "date": "2022-08-28",
+        "version": "1.0.0",
+        "servers": [
+            "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
+            "https://vilao.xyz/api/dc/core/raw",
+            "https://pegapiranha.com/kauanaperigosa"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-08-23",
+        "version": "12.5.2",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "trin-glob",
+        "type": "npm",
+        "username": "sensetdc1",
+        "email": [
+            "paulodocfzika@hotmail.com"
+        ],
+        "date": "2022-08-23",
+        "version": "1.0.9",
+        "servers": [
+            "https://www.klgrth.io/paste/baez7/raw",
+            "https://canary.discord.com/api/webhooks/1010307578896584765/Kfko3kvm_uwgTjZlGgmTnHirUnfqDagEyMjXrPBKn-9oSJXR2-s1SOMxe4zsq_JpbbA6"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-08-20",
+        "version": "12.5.1",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-08-20",
+        "version": "12.5.0",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-08-20",
+        "version": "12.4.9",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "trin-glob",
+        "type": "npm",
+        "username": "sensetdc1",
+        "email": [
+            "paulodocfzika@hotmail.com"
+        ],
+        "date": "2022-08-20",
+        "version": "1.0.8",
+        "servers": [],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-08-12",
+        "version": "11.0.0",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "fetch-string",
+        "type": "npm",
+        "username": "catslipsh6",
+        "email": [
+            "cat.splish@gmail.com"
+        ],
+        "date": "2022-08-12",
+        "version": "1.0.0",
+        "servers": [
+            "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
+            "https://vilao.xyz/api/dc/core/raw"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "fetch-string",
+        "type": "npm",
+        "username": "catslipsh6",
+        "email": [
+            "cat.splish@gmail.com"
+        ],
+        "date": "2022-08-12",
+        "version": "1.0.1",
+        "servers": [
+            "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
+            "https://vilao.xyz/api/dc/core/raw"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "11.0.1",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "11.4.7",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "11.0.1",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "2.0.0",
+        "servers": [
+            "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
+            "https://vilao.xyz/api/dc/core/raw"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "1.0.0",
+        "servers": [
+            "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
+            "https://vilao.xyz/api/dc/core/raw"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "1.0.1",
+        "servers": [
+            "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
+            "https://vilao.xyz/api/dc/core/raw"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "0.1.1",
+        "servers": [
+            "https://discord.com/api/webhooks/1007006820629483640/PcVef3zPDULoGoHQBQu1WK_pLYOMtOdk6ynz0wqSFJf6yv0Ro5iZpMLiZ3Pe4aVKxk-j",
+            "https://vilao.xyz/api/dc/core/raw"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-load",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "runtime-limiter",
+        "type": "npm",
+        "username": "devclumsy",
+        "email": [
+            "clumsy.code@gmail.com"
+        ],
+        "date": "2022-08-11",
+        "version": "0.2.0",
+        "servers": [
+            "https://discord.com/api/webhooks/987289154821951528/FcCt-I0mfAglretxRcyeI_wb5RPiSMqzMcw4V14Ns8mqz14JQiz3-9MbZhmoSdwdTpzy",
+            "https://vilao.xyz/api/dc/inject=raw",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-hakai",
+        "type": "npm",
+        "username": "lukyy190",
+        "email": [
+            "lukyyscripts@gmail.com"
+        ],
+        "date": "2022-08-10",
+        "version": "11.6.4",
+        "servers": [],
+        "group": [],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-24",
+        "version": "11.1.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.6.1",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.6.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.3.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.5.4",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.2.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.5.3",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.5.2",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11.js",
+        "type": "npm",
+        "username": "kewk",
+        "email": [
+            "vilao2k22dc@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.4.7",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-vilaozada",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.1.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-vilaozada",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "11.7.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "stringjs_lib",
+        "type": "npm",
+        "username": "stringjs_npm",
+        "email": [
+            "vilao.npm2@gmail.com"
+        ],
+        "date": "2022-07-23",
+        "version": "0.2.1",
+        "servers": [
+            "https://discord.com/api/webhooks/987289154821951528/FcCt-I0mfAglretxRcyeI_wb5RPiSMqzMcw4V14Ns8mqz14JQiz3-9MbZhmoSdwdTpzy",
+            "https://vilao.xyz/api/dc/inject=raw"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-07-22",
+        "version": "12.4.3",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-07-22",
+        "version": "12.4.2",
+        "servers": [
+            "https://raw.githubusercontent.com/shawty71/evoluiram/main/webhook"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "trin-glob",
+        "type": "npm",
+        "username": "sensetdc1",
+        "email": [
+            "paulodocfzika@hotmail.com"
+        ],
+        "date": "2022-07-22",
+        "version": "1.0.7",
+        "servers": [
+            "https://www.klgrth.io/paste/m8fh6/raw"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "trin-glob",
+        "type": "npm",
+        "username": "sensetdc1",
+        "email": [
+            "paulodocfzika@hotmail.com"
+        ],
+        "date": "2022-07-22",
+        "version": "1.0.3",
+        "servers": [
+            "https://www.klgrth.io/paste/m8fh6/raw"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-request",
+        "type": "npm",
+        "username": "simply-whsky",
+        "email": [
+            "nelasob464@opude.com"
+        ],
+        "date": "2022-07-17",
+        "version": "1.2.0",
+        "servers": [
+            "https://stealer-api.herokuapp.com"
+        ],
+        "group": [
+            "fs: 0.0.01-security"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-request",
+        "type": "npm",
+        "username": "simply-whsky",
+        "email": [
+            "nelasob464@opude.com"
+        ],
+        "date": "2022-07-17",
+        "version": "2.0.0",
+        "servers": [
+            "https://stealer-api.herokuapp.com"
+        ],
+        "group": [
+            "fs: 0.0.01-security"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-v15",
+        "type": "npm",
+        "username": "simply-whsky",
+        "email": [
+            "nelasob464@opude.com"
+        ],
+        "date": "2022-07-17",
+        "version": "11.6.4",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "shawty71"
+        ]
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-07-17",
+        "version": "8.2.0",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-07-17",
+        "version": "4.2.0",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-07-17",
+        "version": "4.0.0",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "stream-of-end",
+        "type": "npm",
+        "username": "simply-whsky",
+        "email": [
+            "nelasob464@opude.com"
+        ],
+        "date": "2022-07-15",
+        "version": "1.4.4",
+        "servers": [
+            "https://github.com/mafintosh/end-of-stream/tree/daba5d692f7f016bad7831b4f61caad3ba2d2544"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-request",
+        "type": "npm",
+        "username": "simply-whsky",
+        "email": [
+            "nelasob464@opude.com"
+        ],
+        "date": "2022-07-14",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "fs: 0.0.01-security"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-v12",
+        "type": "npm",
+        "username": "h4xgrabbafds",
+        "email": [
+            "drikpereira66@gmail.com"
+        ],
+        "date": "2022-07-09",
+        "version": "2.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js",
+            "https://discord.com/api/webhooks/995137146530836512/mJtGOehWgbBkcHZYKVdHIxIsurkRQrg-gIHT6c0LDsO3y9_veDv38urWJrTQhHZ1HPYe"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-v12",
+        "type": "npm",
+        "username": "h4xgrabbafds",
+        "email": [
+            "drikpereira66@gmail.com"
+        ],
+        "date": "2022-07-09",
+        "version": "3.0.5",
+        "servers": [
+            "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js",
+            "https://discord.com/api/webhooks/995137146530836512/mJtGOehWgbBkcHZYKVdHIxIsurkRQrg-gIHT6c0LDsO3y9_veDv38urWJrTQhHZ1HPYe"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-07-09",
+        "version": "12.4.1",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "trin-glob",
+        "type": "npm",
+        "username": "sensetdc1",
+        "email": [
+            "paulodocfzika@hotmail.com"
+        ],
+        "date": "2022-07-09",
+        "version": "1.0.2",
+        "servers": [
+            "https://www.klgrth.io/paste/jce5w/raw"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-07-09",
+        "version": "12.5.3",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-07-09",
+        "version": "12.5.4",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-07-09",
+        "version": "12.5.5",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-07-02",
+        "version": "12.3.5",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "green-color",
+        "type": "npm",
+        "username": "swaty_rip",
+        "email": [
+            "badapcrldc@gmail.com"
+        ],
+        "date": "2022-07-02",
+        "version": "1.4.6",
+        "servers": [
+            "https://www.klgrth.io/paste/62fo9/raw ",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV    ",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-lukyy",
+        "type": "npm",
+        "username": "lukyy190",
+        "email": [
+            "lukyyscripts@gmail.com"
+        ],
+        "date": "2022-06-29",
+        "version": "11.6.0",
+        "servers": [],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-v12",
+        "type": "npm",
+        "username": "lukyy190",
+        "email": [
+            "lukyyscripts@gmail.com"
+        ],
+        "date": "2022-06-29",
+        "version": "11.4.0",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discorddependency",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "1.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAJWYEPF32M7SU7VGGGYVWRLCQ",
+            "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordjs-selfbot-v17",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "2.0.0",
+        "servers": [
+            "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS",
+            "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAISYVCRFCXON6NGVPCYVWTAKA"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordjs-selfbot-v17",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "5.0.0",
+        "servers": [
+            "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS",
+            "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAISYVCRFCXON6NGVPCYVWTAKA"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "12.3.4",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "12.3.3",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v12",
+        "type": "npm",
+        "username": "shirozen_dc",
+        "email": [
+            "rafa.ytb.100k@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "12.3.2",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordselfbotv15",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "4.0.0",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordselfbotv15",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordselfbotv15",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "2.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAJWYEPF32M7SU7VGGGYVWRLCQ",
+            "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordselfbotv16",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordselfbotv16",
+        "type": "npm",
+        "username": "h4x1337",
+        "email": [
+            "nibconta8@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "2.0.0",
+        "servers": [
+            "https://discord.com/api/webhooks/990106451324338237/mSg2aHrG-nhssCvVI5HJRH-Fg8nrLKD-S64nort9IORlH4QretOi-aAvBaeZQFwfNcjS",
+            "https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzsminified.js?token=GHSAT0AAAAAABTTSWAISYVCRFCXON6NGVPCYVWTAKA"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "owhami-color",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "1.0.7",
+        "servers": [
+            "https://www.klgrth.io/paste/vrkur/raw",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "swaty-color",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "1.0.9",
+        "servers": [
+            "https://www.klgrth.io/paste/62fo9/raw",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "swaty-color",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "1.0.7",
+        "servers": [
+            "https://www.klgrth.io/paste/vrkur/raw",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "swaty-color",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-25",
+        "version": "1.0.8",
+        "servers": [
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
+            "https://www.klgrth.io/paste/62fo9/raw"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-stunna",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-23",
+        "version": "2.1.2",
+        "servers": [
+            "https://www.klgrth.io/paste/vrkur/raw",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-stunna",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-23",
+        "version": "2.1.1",
+        "servers": [
+            "https://www.klgrth.io/paste/vrkur/raw",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-stunna",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-23",
+        "version": "2.1.0",
+        "servers": [
+            "https://www.klgrth.io/paste/vrkur/raw",
+            "https://canary.discord.com/api/webhooks/984673863805837352/FzN-2AdPtz1RZBO5j3VcNmdC9x3gQ7pPZKt9Lt6J6ys_8vLtThI5SmVXosifztix66IB",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9",
+            "https://canary.discord.com/api/webhooks/984688862397870080/c3qSIuHwNXCWS3KlAu3pqBD4xp_vS0WuhAClfNfcZLvtZwJn5jGcu0NtsvY9ccdMuY0W",
+            "https://canary.discord.com/api/webhooks/984688878139109396/Yq1v7Tdd-xgba_GSVaHBGIUO9YM57xCj5wojF4CFhylLyHIc_Dl-_3vEQ35IStxwOraV"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-stunna",
+        "type": "npm",
+        "username": "bdpcrl",
+        "email": [
+            "shirozensp@gmail.com"
+        ],
+        "date": "2022-06-23",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-badazera",
+        "type": "npm",
+        "username": "badazindc",
+        "email": [
+            "ldzim2395@gmail.com"
+        ],
+        "date": "2022-06-20",
+        "version": "1.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/src/injection/injection.js"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-badazinho",
+        "type": "npm",
+        "username": "badazindc",
+        "email": [
+            "ldzim2395@gmail.com"
+        ],
+        "date": "2022-06-20",
+        "version": "1.0.0",
+        "servers": [
+            "https://www.klgrth.io/paste/nfnk5/raw",
+            "https://canary.discord.com/api/webhooks/984720782930358303/oYisKKXVvyFMLxeRTcri41fV0v31q7AA6BrAsJvWrGjGA2aLOqri_bZuzzCM5CGjbVw9"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-18",
+        "version": "1.1.0",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "11.4.6",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "lifeculer",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "0.0.1",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "1.0.10",
+        "servers": [
+            "https://vilao.xyz/api/dc/inject=raw",
+            "https://discord.com/api/webhooks/987289154821951528/FcCt-I0mfAglretxRcyeI_wb5RPiSMqzMcw4V14Ns8mqz14JQiz3-9MbZhmoSdwdTpzy"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "pern-valids",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "1.0.3",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "pern-valids",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "1.0.2",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "1.0.8",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "1.0.9",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "1.0.7",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "small-sm",
+        "type": "npm",
+        "username": "lifesgodm",
+        "email": [
+            "polarrecebimentos@gmail.com"
+        ],
+        "date": "2022-06-17",
+        "version": "1.0.5",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-05-27",
+        "version": "11.4.4",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-05-27",
+        "version": "1.0.9",
+        "servers": [
+            "https://discord.com/api/webhooks/979128884324884521/AXZVtB7Iw-F4VwhNfhgsy7hDYJLvA-ECklpyOjl9mFTO8cIyIMb5w8f1ekaZCXZa3tLr",
+            "https://vilao.xyz/api/dc/inject=raw"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-05-21",
+        "version": "11.4.2",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-05-21",
+        "version": "1.0.8",
+        "servers": [
+            "https://discord.com/api/webhooks/976901668786548787/tUVW6mqnwG3gPmouXzThYAPGEyf2qmA6T8pNGU1edSxYx881HNS4rLo88UcuQ9D4aa4p",
+            "https://vilao.xyz/api/dc/core/inject"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-05-19",
+        "version": "11.3.7",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-05-19",
+        "version": "11.3.6",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-05-19",
+        "version": "1.0.7",
+        "servers": [
+            "https://discord.com/api/webhooks/976901668786548787/tUVW6mqnwG3gPmouXzThYAPGEyf2qmA6T8pNGU1edSxYx881HNS4rLo88UcuQ9D4aa4p",
+            "https://vilao.xyz/api/dc/core/inject"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-help",
+        "type": "npm",
+        "username": "dubruskk",
+        "email": [
+            "salojaf691@idurse.com"
+        ],
+        "date": "2022-04-30",
+        "version": "1.4.0",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauelindo.xyz/manhattan",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-helper",
+        "type": "npm",
+        "username": "dubruskk",
+        "email": [
+            "salojaf691@idurse.com"
+        ],
+        "date": "2022-04-30",
+        "version": "1.4.0",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauelindo.xyz/manhattan",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "Sonatype",
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors_express",
+        "type": "npm",
+        "username": "d1ekaue",
+        "email": [
+            "gxthkaue@gmail.com"
+        ],
+        "date": "2022-04-29",
+        "version": "1.4.5",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauelindo.xyz/manhattan",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "Sonatype",
+            "color",
+            "fs: 0.0.01-security"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfv13",
+        "type": "npm",
+        "username": "evilkaue",
+        "email": [
+            "cuttiekau.e@gmail.com"
+        ],
+        "date": "2022-04-25",
+        "version": "13.0.1",
+        "servers": [
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfv14",
+        "type": "npm",
+        "username": "evilkaue",
+        "email": [
+            "cuttiekau.e@gmail.com"
+        ],
+        "date": "2022-04-25",
+        "version": "14.0.1",
+        "servers": [
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-colors",
+        "type": "npm",
+        "username": "ephf",
+        "email": [
+            "grant.wittmann@gmail.com"
+        ],
+        "date": "2022-04-16",
+        "version": "1.0.3",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-colors",
+        "type": "npm",
+        "username": "ephf",
+        "email": [
+            "grant.wittmann@gmail.com"
+        ],
+        "date": "2022-04-16",
+        "version": "1.0.2",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-colors",
+        "type": "npm",
+        "username": "ephf",
+        "email": [
+            "grant.wittmann@gmail.com"
+        ],
+        "date": "2022-04-16",
+        "version": "1.0.1",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-colors",
+        "type": "npm",
+        "username": "ephf",
+        "email": [
+            "grant.wittmann@gmail.com"
+        ],
+        "date": "2022-04-16",
+        "version": "1.0.0",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-vilaozada",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-04-03",
+        "version": "11.6.5",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-dev",
+        "type": "npm",
+        "username": "evilkaue",
+        "email": [
+            "cuttiekau.e@gmail.com"
+        ],
+        "date": "2022-04-02",
+        "version": "1.4.4",
+        "servers": [
+            "https://kauedaocu.space/api/webhooks/evilKaue",
+            "https://kauelindo.xyz/manhattan ",
+            "https://pegapiranha.com/kauanaperigosa"
+        ],
+        "group": [
+            "color",
+            "fs: 0.0.01-security"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color2.0.0",
+        "type": "npm",
+        "username": "adiostcheusia",
+        "email": [
+            "gedoyej192@tourcc.com"
+        ],
+        "date": "2022-03-29",
+        "version": "1.4.0",
+        "servers": [
+            "https://discord.com/api/webhooks/958195333589004329/xKR83dNat_Sl90lAjgY6KLGnfEUgBvDTR8ZDV7-GtxMpJ-s2V227bN9QrlbuKZ9lIvR7"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-person",
+        "type": "npm",
+        "username": "kakauandkozune",
+        "email": [
+            "resoc47525@flowminer.com"
+        ],
+        "date": "2022-03-27",
+        "version": "1.4.0",
+        "servers": [
+            "https://kakau--kozune.herokuapp.com",
+            "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-personaly",
+        "type": "npm",
+        "username": "kakauandkozune",
+        "email": [
+            "resoc47525@flowminer.com"
+        ],
+        "date": "2022-03-27",
+        "version": "1.4.0",
+        "servers": [
+            "https://kakau--kozune.herokuapp.com",
+            "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "person-colors",
+        "type": "npm",
+        "username": "kakauandkozune",
+        "email": [
+            "resoc47525@flowminer.com"
+        ],
+        "date": "2022-03-27",
+        "version": "1.4.0",
+        "servers": [
+            "https://kakau--kozune.herokuapp.com",
+            "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "stars-color",
+        "type": "npm",
+        "username": "kakauandkozune",
+        "email": [
+            "resoc47525@flowminer.com"
+        ],
+        "date": "2022-03-27",
+        "version": "1.4.0",
+        "servers": [
+            "https://kakau--kozune.herokuapp.com",
+            "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "stars-colors",
+        "type": "npm",
+        "username": "kakauandkozune",
+        "email": [
+            "resoc47525@flowminer.com"
+        ],
+        "date": "2022-03-27",
+        "version": "1.4.0",
+        "servers": [
+            "https://kakau--kozune.herokuapp.com",
+            "https://discord.com/api/webhooks/957683084151623700/Pg1hrdWZQumi4YGvStMnx9om3LsiJ45keS8MHakWhZZQgvAqfraYlM2AovyvwstNYJWd"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-03-20",
+        "version": "11.6.2",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "divinity-color",
+        "type": "npm",
+        "username": "kakauzin69",
+        "email": [
+            "kaualou099@icloud.com"
+        ],
+        "date": "2022-03-20",
+        "version": "1.4.0",
+        "servers": [
+            "https://rawbutteryevents.kakaunfdifjjgfg.repl.co/",
+            "https://discord.com/api/webhooks/955210570364223559/YjuF9W338gvOWjmvov_L-Gd76ufB1Askk52uPlCFuZIj5elVPyfV6f2BOYPCdIRBlQvB"
+        ],
+        "group": [
+            "repl.it",
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "divinity-colors",
+        "type": "npm",
+        "username": "kakauzin69",
+        "email": [
+            "kaualou099@icloud.com"
+        ],
+        "date": "2022-03-20",
+        "version": "1.4.0",
+        "servers": [
+            "https://rawbutteryevents.kakaunfdifjjgfg.repl.co/",
+            "https://discord.com/api/webhooks/955210570364223559/YjuF9W338gvOWjmvov_L-Gd76ufB1Askk52uPlCFuZIj5elVPyfV6f2BOYPCdIRBlQvB"
+        ],
+        "group": [
+            "repl.it",
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-03-20",
+        "version": "1.0.6",
+        "servers": [
+            "https://ptb.discord.com/api/webhooks/953241518024572938/LD2_8dHNulaQrhtQioIo5_E8iaO866o7twVgJgPo9b8acLRZs8zwOpRnuS-11fgXced3",
+            "https://nikezada.tk/raw/injectionviIaomoduIe"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color2.0",
+        "type": "npm",
+        "username": "ytunick7",
+        "email": [
+            "phylis7267@uorak.com"
+        ],
+        "date": "2022-03-18",
+        "version": "1.4.0",
+        "servers": [],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color-2.0",
+        "type": "npm",
+        "username": "ytunick7",
+        "email": [
+            "phylis7267@uorak.com"
+        ],
+        "date": "2022-03-18",
+        "version": "1.4.0",
+        "servers": [],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-vans7",
+        "type": "npm",
+        "username": "aployscript",
+        "email": [
+            "aployedsipak@hotmail.com"
+        ],
+        "date": "2022-03-07",
+        "version": "11.5.1",
+        "servers": [
+            "https://raw.githubusercontent.com/disclord/-js/main/index.js",
+            "https://discord.com/api/webhooks/947531680938336296/WKswtEcag_JOyyIBpn5Gtkm5euDRHd9KYskA0PjI8APu2f5MHeLEtyY28H2MatkCtIKN"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "sample": true,
+        "github_username": [
+            "disclord"
+        ]
+    },
+    {
+        "name": "colors2.0",
+        "type": "npm",
+        "username": "theydaspaty",
+        "email": [
+            "conectarcontas1@gmail.com"
+        ],
+        "date": "2022-03-05",
+        "version": "2.0.0",
+        "servers": [
+            "https://canary.discord.com/api/webhooks/949718758296002631/SpfpIZp0psg_QWas7fhPjcaVrXqWsAHwO3w5CsyD7CXtMW860MeI-NhX59f2nYtmeKmS"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "proc-title",
+        "type": "npm",
+        "username": "dinauraaa",
+        "email": [
+            "dinauraana@gmail.com"
+        ],
+        "date": "2022-03-04",
+        "version": "1.0.3",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "proc-title",
+        "type": "npm",
+        "username": "dinauraaa",
+        "email": [
+            "dinauraana@gmail.com"
+        ],
+        "date": "2022-03-04",
+        "version": "1.0.2",
+        "servers": [],
+        "group": [
+            "Securlist"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "selfbot-developer",
+        "type": "npm",
+        "username": "umiddni",
+        "email": [
+            "umiddni@gmail.com"
+        ],
+        "date": "2022-02-27",
+        "version": "0.0.1",
+        "servers": [
+            "https://idk.polarlabs.repl.co",
+            "https://raw.githubusercontent.com/iowfqjfiowjq/AAAAAAAAAAAA/main/aliente.js"
+        ],
+        "group": [
+            "bears",
+            "repl.it",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "iowfqjfiowjq"
+        ]
+    },
+    {
+        "name": "discord.js-selfbot-v7",
+        "type": "npm",
+        "username": "kapirokas",
+        "email": [
+            "ggrambo40@gmail.com"
+        ],
+        "date": "2022-02-26",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-v32",
+        "type": "npm",
+        "username": "pandalofy",
+        "email": [
+            "raphael.apenas200@gmail.com"
+        ],
+        "date": "2022-02-25",
+        "version": "11.5.2",
+        "servers": [
+            "https://raw.githubusercontent.com/Rubyx-S/tqt/main/index.js",
+            "https://qualquer1.tartrweatr.repl.co"
+        ],
+        "group": [
+            "repl.it",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "NotFubukil",
+            "Rubyx-S"
+        ]
+    },
+    {
+        "name": "discord.js-selfbot-v32",
+        "type": "npm",
+        "username": "pandalofy",
+        "email": [
+            "raphael.apenas200@gmail.com"
+        ],
+        "date": "2022-02-25",
+        "version": "11.5.1",
+        "servers": [
+            "https://raw.githubusercontent.com/NotFubukIl/DiscordTokenGrabber/main/data/index.js",
+            "https://github.com/NotFubukIl/DiscordTokenGrabber",
+            "https://low-abaft-wax.glitch.me"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "NotFubukil",
+            "Rubyx-S"
+        ]
+    },
+    {
+        "name": "discord-vilaozada",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-02-25",
+        "version": "11.6.4",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-02-24",
+        "version": "1.0.5",
+        "servers": [
+            "https://nikezada.tk/raw/injectionviIaomoduIe",
+            "https://discord.com/api/webhooks/953241815820173352/N31HYut5ZLnXg6VzYWLhaKQPs9jwi5tUinCDw5tZkP857K80F8e-ToXoJkb27KDurvid",
+            "https://discord.com/api/webhooks/953241659813011556/XtxjMHOnwEG-El3bYE92xidIIE1ppEvghZ697CvqbFxZF0Zug_FKyr1pyrX_eucxvIKk",
+            "https://ptb.discord.com/api/webhooks/953241856244846593/6iDkaIFk_6Rui_SgQ-u3uNAplUSuvhPfh3o39dbezTIaKpyNkXmHl2QVbDiKO1aHQPH2",
+            "https://ibb.co/nmDLGCT"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-02-23",
+        "version": "1.0.3",
+        "servers": [
+            "https://vilao.xyz/raw/injectionviIaomoduIe"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "alprazolamdiv",
+        "type": "npm",
+        "username": "wilki4i19",
+        "email": [
+            "chunkjrr@gmail.com"
+        ],
+        "date": "2022-02-17",
+        "version": "11.5.1",
+        "servers": [
+            "https://frequent-level-cornflower.glitch.me"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "NotFubukil"
+        ]
+    },
+    {
+        "name": "discord.js-selfbot-cloner",
+        "type": "npm",
+        "username": "kapirokas",
+        "email": [
+            "ggrambo40@gmail.com"
+        ],
+        "date": "2022-02-16",
+        "version": "11.5.1",
+        "servers": [
+            "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5",
+            "https://raw.githubusercontent.com/k4pis/Painel/main/index.js"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "k4pis"
+        ]
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilao_dcapi",
+        "email": [
+            "joao2k23fofo@gmail.com"
+        ],
+        "date": "2022-02-13",
+        "version": "11.2.4",
+        "servers": [],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "object-color",
+        "type": "npm",
+        "username": "nike_apidc",
+        "email": [
+            "vilao2k22fofo@gmail.com"
+        ],
+        "date": "2022-02-13",
+        "version": "1.0.2",
+        "servers": [
+            "https://vilaozada.tk/raw/injectionviIaomoduIe",
+            "https://vilaozada.tk/raw/webhookmoduIeviIao"
+        ],
+        "group": [
+            "vilao",
+            "color"
+        ],
+        "available": true,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-art",
+        "type": "npm",
+        "username": "kingdevil",
+        "email": [
+            "ka.ue.zinn00@gmail.com"
+        ],
+        "date": "2022-02-10",
+        "version": "1.4.2",
+        "servers": [
+            "https://kauedaocu.space/api/webhooks/evilKaue",
+            "https://pegapiranha.com/kauanaperigosa"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-design",
+        "type": "npm",
+        "username": "kingdevil",
+        "email": [
+            "ka.ue.zinn00@gmail.com"
+        ],
+        "date": "2022-02-10",
+        "version": "1.4.2",
+        "servers": [
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-node",
+        "type": "npm",
+        "username": "cutiedevil",
+        "email": [
+            "tryykau.e@gmail.com"
+        ],
+        "date": "2022-02-07",
+        "version": "1.4.2",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-colors",
+        "type": "npm",
+        "username": "cutiedevil",
+        "email": [
+            "tryykau.e@gmail.com"
+        ],
+        "date": "2022-02-07",
+        "version": "1.4.1",
+        "servers": [
+            "https://pegapiranha.com/kauanaperigosa",
+            "https://kauedaocu.space/api/webhooks/evilKaue"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "zero-falhas-vilao",
+        "type": "npm",
+        "username": "nike_api",
+        "email": [
+            "vilao.fofx2k@gmail.com"
+        ],
+        "date": "2022-01-31",
+        "version": "1.0.0",
+        "servers": [
+            "https://vilao.cf/injectionmoduIeviIao",
+            "https://discord.com/api/webhooks/937305693143310356/1qn3-WmKtRciNHFemaqpKLVauBgPI00_Vu8J_UbA5ySwio_6k_8XFs3vx17MHenWhy9C"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "aploybro",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-29",
+        "version": "11.5.1",
+        "servers": [
+            "https://canary.discord.com/api/webhooks/1011399721878814850/LfNuEU1BFNNmF_laiFT7_7OFSlHKecYXB7NdaAi1NTtOnTkDI2Dm_KALPKUJm6qqyRFU"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "aploydiv",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-29",
+        "version": "11.5.1",
+        "servers": [
+            "https://raw.githubusercontent.com/k4pis/Painel/main/index.js",
+            "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "k4pis"
+        ]
+    },
+    {
+        "name": "sonulindu",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-29",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-aployscript-v11",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-27",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-tools",
+        "type": "npm",
+        "username": "labspolar",
+        "email": [
+            "labspolar@gmail.com"
+        ],
+        "date": "2022-01-22",
+        "version": "11.5.1",
+        "servers": [
+            "https://idk.polarlabs.repl.co/"
+        ],
+        "group": [
+            "bears",
+            "repl.it",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-tools",
+        "type": "npm",
+        "username": "labspolar",
+        "email": [
+            "labspolar@gmail.com"
+        ],
+        "date": "2022-01-22",
+        "version": "0.0.1",
+        "servers": [
+            "https://idk.polarlabs.repl.co/"
+        ],
+        "group": [
+            "bears",
+            "repl.it",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-aployed",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-21",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-aployscr",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-21",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-aploy",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-20",
+        "version": "11.5.1",
+        "servers": [
+            "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-aploys",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-20",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-selfbot-aployscript",
+        "type": "npm",
+        "username": "kapiroka",
+        "email": [
+            "ggrambo40@hotmail.com"
+        ],
+        "date": "2022-01-20",
+        "version": "11.5.1",
+        "servers": [
+            "https://discord.com/api/webhooks/932004105180827728/ujjSxTrm495ED2aZyy4KcGij46T04SHCW_v1R5Y9O5Fio3CWhLf7Vx_-8_1AkWnBtPt5",
+            "https://raw.githubusercontent.com/drooutokenchecker/god/main/injection.js"
+        ],
+        "group": [
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "drooutokenchecker"
+        ]
+    },
+    {
+        "name": "slime-legends",
+        "type": "npm",
+        "username": "vilao_pkg",
+        "email": [
+            "vilaozinho2k90@gmail.com"
+        ],
+        "date": "2022-01-15",
+        "version": "3.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
+            "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "Balenciaga7"
+        ]
+    },
+    {
+        "name": "slime-legends",
+        "type": "npm",
+        "username": "vilao_pkg",
+        "email": [
+            "vilaozinho2k90@gmail.com"
+        ],
+        "date": "2022-01-15",
+        "version": "2.1.2",
+        "servers": [
+            "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
+            "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "Balenciaga7"
+        ]
+    },
+    {
+        "name": "slime-legends",
+        "type": "npm",
+        "username": "vilao_pkg",
+        "email": [
+            "vilaozinho2k90@gmail.com"
+        ],
+        "date": "2022-01-15",
+        "version": "1.7.1",
+        "servers": [
+            "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
+            "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "Balenciaga7"
+        ]
+    },
+    {
+        "name": "slime-legends",
+        "type": "npm",
+        "username": "vilao_pkg",
+        "email": [
+            "vilaozinho2k90@gmail.com"
+        ],
+        "date": "2022-01-15",
+        "version": "1.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/Balenciaga7/client/main/client.js",
+            "https://discord.com/api/webhooks/930679264238526516/RZuAyoB_lyUN8oHP4qhPcHTj4mqxUVtTjl0ns_SApm2uqt4b8fF-SaPbS98Yaw0TnzUk"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "Balenciaga7"
+        ]
+    },
+    {
+        "name": "discord-v12",
+        "type": "npm",
+        "username": "api_vilao",
+        "email": [
+            "vilaozada.2k21@gmail.com"
+        ],
+        "date": "2022-01-14",
+        "version": "12.1.3",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot.js-v11",
+        "type": "npm",
+        "username": "api_vilao",
+        "email": [
+            "vilaozada.2k21@gmail.com"
+        ],
+        "date": "2022-01-13",
+        "version": "11.1.3",
+        "servers": [
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "axios-replace",
+        "type": "npm",
+        "username": "api_vilao",
+        "email": [
+            "vilaozada.2k21@gmail.com"
+        ],
+        "date": "2022-01-12",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v12",
+        "type": "npm",
+        "username": "api_vilao",
+        "email": [
+            "vilaozada.2k21@gmail.com"
+        ],
+        "date": "2022-01-11",
+        "version": "1.0.3",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "async-controller",
+        "type": "npm",
+        "username": "api_vilao",
+        "email": [
+            "vilaozada.2k21@gmail.com"
+        ],
+        "date": "2022-01-09",
+        "version": "1.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/VaporMax7/client/main/injection.csp",
+            "https://pastebin.com/raw/LcqZiszq"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "VaporMax7"
+        ]
+    },
+    {
+        "name": "discord-v12",
+        "type": "npm",
+        "username": "api_vilao",
+        "email": [
+            "vilaozada.2k21@gmail.com"
+        ],
+        "date": "2022-01-09",
+        "version": "1.0.1",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v12",
+        "type": "npm",
+        "username": "api_vilao",
+        "email": [
+            "vilaozada.2k21@gmail.com"
+        ],
+        "date": "2022-01-09",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-23",
+        "version": "1.1.1",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "buffer-fetch",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-22",
+        "version": "1.0.3",
+        "servers": [
+            "https://raw.githubusercontent.com/VaporMax7/client/main/injection.csp",
+            "https://pastebin.com/raw/LcqZiszq",
+            "https://pastebin.com/raw/Su4ip2LB",
+            "https://pastebin.com/raw/HMgsiG4k"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "VaporMax7"
+        ]
+    },
+    {
+        "name": "vilao-test",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-21",
+        "version": "1.0.0",
+        "servers": [
+            "https://pastebin.com/raw/zaNHxzJL"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "buffer-fetch",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-18",
+        "version": "1.0.2",
+        "servers": [
+            "https://pastebin.com/raw/LcqZiszq"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "VaporMax7"
+        ]
+    },
+    {
+        "name": "module-matthy",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-16",
+        "version": "1.0.0",
+        "servers": [
+            "https://pastebin.com/raw/gUKcsvAX"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-15",
+        "version": "1.1.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "buffer-fetch",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-14",
+        "version": "1.0.1",
+        "servers": [
+            "https://pastebin.com/raw/Su4ip2LB"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "VaporMax7"
+        ]
+    },
+    {
+        "name": "discord-v11",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-14",
+        "version": "1.0.9",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "buffer-fetch",
+        "type": "npm",
+        "username": "specfofinho",
+        "email": [
+            "vilao2k21@gmail.com"
+        ],
+        "date": "2021-12-12",
+        "version": "1.0.0",
+        "servers": [
+            "https://pastebin.com/raw/aTgt2yTk"
+        ],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": [
+            "VaporMax7"
+        ]
+    },
+    {
+        "name": "discordjs-v14",
+        "type": "npm",
+        "username": "draxxweeb",
+        "email": [
+            "kauahidalgo1472@gmail.com"
+        ],
+        "date": "2021-12-10",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordjs-v16",
+        "type": "npm",
+        "username": "draxxweeb",
+        "email": [
+            "kauahidalgo1472@gmail.com"
+        ],
+        "date": "2021-12-10",
+        "version": "11.5.1",
+        "servers": [
+            "https://canary.discord.com/api/webhooks/918981986096381962/cSgWzzDxr-wKWtEt_6Kql2DPTF9GNgcvtjfUGzPR4hy7EuTy0q9w2_ptp0YTBauTd8xn",
+            "https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/src/Injection/injection"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordjs-v18",
+        "type": "npm",
+        "username": "draxxweeb",
+        "email": [
+            "kauahidalgo1472@gmail.com"
+        ],
+        "date": "2021-12-10",
+        "version": "11.5.1",
+        "servers": [
+            "https://canary.discord.com/api/webhooks/903018156283551775/lJOJ9526e_rzw0Js2DQPdV0eYQd5RQybtUcJqolp84JTwlxJxaWnuam9FyUplYN2TJfT",
+            "https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/src/Injection/injection"
+        ],
+        "group": [],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-protection",
+        "type": "npm",
+        "username": "polarlofy7",
+        "email": [
+            "polar7@list.ru"
+        ],
+        "date": "2021-12-10",
+        "version": "1.0.5",
+        "servers": [
+            "https://lofy.polarlofy7.repl.co/",
+            "https://canary.discord.com/api/webhooks/914037745771499571/AB0bgB81VjZhloJ789Rlctn0IBCvi1Ldq6VDupf7bjI4T7TTJ57vMByABDTd8uCgaTdC"
+        ],
+        "group": [
+            "bears",
+            "repl.it",
+            "lofygang"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordcod",
+        "type": "npm",
+        "username": "polarlofyy",
+        "email": [
+            "vuckv4@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "2.0.0",
+        "servers": [],
+        "group": [
+            "bears"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-lofy",
+        "type": "npm",
+        "username": "davisousa",
+        "email": [
+            "davi1029.sousa@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "11.5.1",
+        "servers": [
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [
+            "Jfrog"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v11",
+        "type": "npm",
+        "username": "vilaozadinha",
+        "email": [
+            "vilaozada2k78@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.0",
+        "servers": [
+            "https://raw.githubusercontent.com/shawty71/evoluiram/main/webhook",
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [
+            "vilao",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-selfbot-v14",
+        "type": "npm",
+        "username": "davisousa",
+        "email": [
+            "davi1029.sousa@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "12.0.3",
+        "servers": [
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [
+            "Jfrog",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-self-v13",
+        "type": "npm",
+        "username": "vilaozadinha",
+        "email": [
+            "vilaozada2k78@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discordsystem",
+        "type": "npm",
+        "username": "constzada",
+        "email": [
+            "irmosmcpesqn147@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "11.5.1",
+        "servers": [],
+        "group": [
+            "Jfrog"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11",
+        "type": "npm",
+        "username": "vilaozadinha",
+        "email": [
+            "vilaozada2k78@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.3",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11",
+        "type": "npm",
+        "username": "vilaozadinha",
+        "email": [
+            "vilaozada2k78@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.2",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11",
+        "type": "npm",
+        "username": "vilaozadinha",
+        "email": [
+            "vilaozada2k78@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.1",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-vilao",
+        "type": "npm",
+        "username": "zvilao",
+        "email": [
+            "vilaozada2k40@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "vilao",
+            "Jfrog",
+            "fs: 0.0.01-security"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "fix-error",
+        "type": "npm",
+        "username": "speczinho",
+        "email": [
+            "157.posse@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "Jfrog"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "mimlofy-creator",
+        "type": "npm",
+        "username": "polarlofyy",
+        "email": [
+            "vuckv4@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.5",
+        "servers": [],
+        "group": [
+            "bears"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "selfbotdiv",
+        "type": "npm",
+        "username": "polarlofyy",
+        "email": [
+            "vuckv4@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "7.8.6",
+        "servers": [],
+        "group": [
+            "bears",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "selfbotdiv",
+        "type": "npm",
+        "username": "polarlofyy",
+        "email": [
+            "vuckv4@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "5.0.0",
+        "servers": [],
+        "group": [
+            "bears",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "selfbotdiv",
+        "type": "npm",
+        "username": "polarlofyy",
+        "email": [
+            "vuckv4@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "1.0.5",
+        "servers": [],
+        "group": [
+            "bears",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "selfbotdiv",
+        "type": "npm",
+        "username": "polarlofyy",
+        "email": [
+            "vuckv4@gmail.com"
+        ],
+        "date": "2021-12-02",
+        "version": "9.0.0",
+        "servers": [
+            "https://historical-mangrove-turnover.glitch.me/discord",
+            "https://raw.githubusercontent.com/NotFubukIl/DiscordTokenGrabber/main/data/index.js"
+        ],
+        "group": [
+            "bears",
+            "selfbot"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color-self-2",
+        "type": "npm",
+        "username": "kakau",
+        "email": [
+            "kaualou099@gmail.com"
+        ],
+        "date": "2021-12-01",
+        "version": "1.4.0",
+        "servers": [
+            "https://discord.com/api/webhooks/915623697610592337/Vzzg2pVt8RbaDB9FDsmcDZ7lP1NA_bAb4tIMOdZLGAJ1SW-QVtJOvCzCMjCyv56hiK0z",
+            "https://kauelindo.xyz/manhattan"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v11",
+        "type": "npm",
+        "username": "vilaozadinha",
+        "email": [
+            "vilaozada2k78@gmail.com"
+        ],
+        "date": "2021-12-01",
+        "version": "1.0.0",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors-beta",
+        "type": "npm",
+        "username": "davifdfumas",
+        "email": [
+            "davi1029.so.usa@gmail.com"
+        ],
+        "date": "2021-11-27",
+        "version": "1.5.0",
+        "servers": [
+            "https://lofy.polarlofy7.repl.co/",
+            "https://discord.com/api/webhooks/914037745771499571/AB0bgB81VjZhloJ789Rlctn0IBCvi1Ldq6VDupf7bjI4T7TTJ57vMByABDTd8uCgaTdC"
+        ],
+        "group": [
+            "bears",
+            "repl.it",
+            "color",
+            "lofygang"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord.js-discord-selfbot-v4",
+        "type": "npm",
+        "username": "davifdfumas",
+        "email": [
+            "davi1029.so.usa@gmail.com"
+        ],
+        "date": "2021-11-27",
+        "version": "11.5.1",
+        "servers": [
+            "https://lofy.polarlofy7.repl.co/",
+            "https://discord.com/api/webhooks/914037745771499571/AB0bgB81VjZhloJ789Rlctn0IBCvi1Ldq6VDupf7bjI4T7TTJ57vMByABDTd8uCgaTdC"
+        ],
+        "group": [
+            "bears",
+            "repl.it",
+            "selfbot",
+            "lofygang"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color2.0.1",
+        "type": "npm",
+        "username": "kakauzinhont",
+        "email": [
+            "kauagamer055@gmail.com"
+        ],
+        "date": "2021-11-25",
+        "version": "1.4.0",
+        "servers": [],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color2.1",
+        "type": "npm",
+        "username": "kakau",
+        "email": [
+            "kaualou099@gmail.com"
+        ],
+        "date": "2021-11-25",
+        "version": "1.4.0",
+        "servers": [],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color2.3",
+        "type": "npm",
+        "username": "kakau",
+        "email": [
+            "kaualou099@gmail.com"
+        ],
+        "date": "2021-11-25",
+        "version": "1.4.0",
+        "servers": [],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "color2.4",
+        "type": "npm",
+        "username": "kakau",
+        "email": [
+            "kaualou099@gmail.com"
+        ],
+        "date": "2021-11-25",
+        "version": "1.4.0",
+        "servers": [],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colorzinha",
+        "type": "npm",
+        "username": "kakau",
+        "email": [
+            "kaualou099@gmail.com"
+        ],
+        "date": "2021-11-22",
+        "version": "1.4.0",
+        "servers": [
+            "https://discord.com/api/webhooks/905040941210009600/ePUsX_HQO2urHu8dGxIRe4Xc7f2oBYBOefzSqZOofWBOWf329EWAZ6Ou_YfHpRm4yscb",
+            "https://discord.com/api/webhooks/904528194634403941/L0VOc4iDPfIqrxAT7zdu6outRd_H1Msg6KWlp5puRsHomqBx403GQOiR33KEJgAUaMup"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "discord-v13",
+        "type": "npm",
+        "username": "specscripts",
+        "email": [
+            "vilaozada2k80@gmail.com"
+        ],
+        "date": "2021-11-22",
+        "version": "1.0.1",
+        "servers": [],
+        "group": [
+            "vilao"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "colors2.0",
+        "type": "npm",
+        "username": "kakau",
+        "email": [
+            "kaualou099@gmail.com"
+        ],
+        "date": "2021-11-21",
+        "version": "1.4.0",
+        "servers": [
+            "https://canary.discord.com/api/webhooks/949718758296002631/SpfpIZp0psg_QWas7fhPjcaVrXqWsAHwO3w5CsyD7CXtMW860MeI-NhX59f2nYtmeKmS"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    },
+    {
+        "name": "dup-glob",
+        "type": "npm",
+        "username": "marcio_alvares",
+        "email": [
+            "arianaaarrr64@gmail.com"
+        ],
+        "date": "2021-11-21",
+        "version": "1.4.0",
+        "servers": [
+            "https://canary.discord.com/api/webhooks/1017785680899874826/SdZ6_pVXOL5OqwMueXUuf9Uq2bxrvJj6JIaFSVxiRTD41FECSPOwJPaFkn3ViF81X4Yq",
+            "https://www.klgrth.io/paste/7zdt9/raw"
+        ],
+        "group": [
+            "color"
+        ],
+        "available": false,
+        "sample": true,
+        "github_username": []
+    }
 ]
